@@ -1,3 +1,4 @@
+-----------------------------------------------------
 This project is revolutionary!
 
 Decentralized
@@ -5,3 +6,4 @@ Disruptive
 Backed by a Discord server
 
 You stopped reading halfway through
+-----------------------------------------------------
