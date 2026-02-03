@@ -17,11 +17,11 @@ using the command line to escape the algorithm.
 ## Necessary Commands
 | Command | Purpose |
 |--------|---------|
-| `ls` | List the contents of the current directory |
+| `ls` | List directory contents |
 | `cd` | Move between directories |
-| `cat` | Read the contents of text files |
-| `ls -a` | View hidden files and directories |
-| `cd ..` | Move back to the previous directory |
+| `cat` | Read a text file |
+| `ls -a` | Show hidden files and folders |
+| `cd ..` | Go back one directory |
 
 Some paths loop endlessly.
 Some information is hidden.
