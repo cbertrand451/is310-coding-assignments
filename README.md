@@ -1,21 +1,21 @@
-﻿# Init IS310 Homework
+# IS 310 - Coding Assignments
+*By Colin Bertrand*
 
-## Proof of Installation
+## About This Repository
 
-1. Python
+This repository contains the work and coding assignemtns for **IS 310 - Computing in the Humanities - Spring 2026** at the **University of Illinois Urbana - Champaign**.
 
-![Python Installation](images/python-installation.png)
+Assignments are all organized in their own folder and labeled based on the weekly assignment details found on the course website.
 
-2. Git
+## Assignments
 
-![Git Installation](images/git-installation.png)
+- [Init IS310](init_is310)
+- [Lost & Found in the Cultural Command Line](command-line-maze)
 
-3. VS Code
 
-![VS Code Installation](images/vscode-installation.png)
+## Course Website
+[IS310 - Culture as Data Spring 2026](https://cultureasdata-uiuc.github.io/is310-spring-2026/)
 
-4. AI Tool/Workflow 
 
-How will you work with AI? What tools if any do you plan to use?
 
-I have OpenAI's Codex in my VSCode IDE enabled, as well as copilot. I only ever plan to use them for their auto-complete features, which essentially serve as a helper to complete my line of code instead of manually typing everything out. I don't plan to ever use it as a generation tool for assigments. 
+
