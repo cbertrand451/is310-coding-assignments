@@ -15,9 +15,7 @@ using the command line to escape the algorithm.
 - ls
 - cd
 - cat
-- less
 - ls -a
-- find
 
 Some paths loop endlessly.
 Some information is hidden.
