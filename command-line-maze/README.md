@@ -18,8 +18,6 @@ using the command line to escape the algorithm.
 - pwd
 
 ## Tips
-- Read files carefully — clues are everywhere
 - Some things are hidden
-- If you feel trapped, that’s intentional
 
 Good luck.
