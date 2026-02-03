@@ -1,14 +1,15 @@
-# Escape the Algorithm: Social Media + Pop Culture Maze
+# Draft Night: Getting Drafted into the NBA
 
 By Colin Bertrand
 
 ## Overview
-This maze is themed around social media and algorithm-driven internet behavior.
+You are a draft prospect on the brink of entering the NBA.
 
-It simulates the familiar feeling of getting pulled deeper and deeper
-into apps you didnt plan to open. Some paths go nowhere. Some repeat.
-A few look promising but waste your time.
+This directory represents the information available before draft night.
+Some paths lead to clarity. Others lead nowhere.
 
+Explore carefully.
+Not every team is the right fit.
 
 ## Necessary Commands
 | Command | Purpose |
@@ -19,5 +20,3 @@ A few look promising but waste your time.
 | `ls -a` | Show hidden files and folders |
 | `cd ..` | Go back one directory |
 
-Some information is hidden.
-The algorithm does not want you to leave.
