@@ -1,6 +1,4 @@
-# Escape the Algorithm
-
-## Social Media + Pop Culture Maze
+# Escape the Algorithm: Social Media + Pop Culture Maze
 
 By Colin Bertrand
 
