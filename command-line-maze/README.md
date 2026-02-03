@@ -6,7 +6,7 @@ By Colin Bertrand
 This maze is themed around social media and algorithm-driven internet behavior.
 
 It simulates the familiar feeling of getting pulled deeper and deeper
-into apps you didn’t plan to open. Some paths go nowhere. Some repeat.
+into apps you didnt plan to open. Some paths go nowhere. Some repeat.
 A few look promising but waste your time.
 
 
