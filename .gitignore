@@ -1,0 +1,13 @@
+# IDE files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Sensitive data files
+*.env
+*.json
