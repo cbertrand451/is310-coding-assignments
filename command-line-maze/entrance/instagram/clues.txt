@@ -1,0 +1,8 @@
+This platform learns quickly.
+
+Instagram pushes content based on what keeps you watching.
+
+For example, if you linger on workout videos,
+the algorithm sends you to GymTok.
+
+Enter the gymtok folder.
