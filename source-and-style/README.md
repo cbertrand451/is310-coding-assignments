@@ -1,1 +1,1 @@
-# Assignment 2: Styling the Cultural Web
+# Styling the Cultural Web
