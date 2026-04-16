@@ -1,46 +1,53 @@
 # Styling the Cultural Web
-### HathiTrust Digital Library
+### GameChanger
 
-I chose to assess the **HathiTrust Digital Library** as the digital archive for this assignment. 
+I chose to assess **GameChanger** as the digital library for this assignment. It's a sports platform which allows users, normally coaches and athletes, to watch games with real time data and fan engagement. It acts as a social media platform, but cenetered entirely around sports. Coaches and Staff use it to manage their players, and family and fans use it to keep up with their team. 
 
 ---
 
 #### Website:
-HathiTrust Digital Library: https://www.hathitrust.org
+[GameChanger](https://gc.com)
 
 #### GitHub:
-HathiTrust Organization: https://github.com/hathitrust
+[Gamechanger GitHub](https://github.com/gamechanger)
+
+
+GameChanger allows coaches, players, and fans to interact with live sports games through:
+- real-time score updates
+- live play-by-play streams
+- automated game summaries
+- player and team statistics
 
 ---
 
 #### Technologies Used
 
-After inspecting the site, I found an enterprise technology page that gave me a lot of the information I was looking for. The page, https://www.hathitrust.org/hathitrust-enterprise-technology/, listed normal front-end web developing languages like **HTML**, **CSS**, and **JavaScript**. They went even further and listed the frameworks used within those languages, like **Bootstrap** and **Svelte** for JavaScript/CSS. 
+First, I inspected the webpage in the browser using DevTools. I found all three **HTML**, **CSS**, and **JavaScript** files within the webpage. 
 
-There also seemed to be a number of other languages/technologies used to build the pages. The enterprise technology page also listed **Ruby**, **Python**, **Perl**, **PHP**, and **XSLT** as programming languages used for the archive. These were likely more involved with the backend of the website, as database technoliges were listed right after. 
+**HTML** seemed to be used to build the structure of the page. The layout and what content was displayed where.
 
-#### Files in .html, .css, or .js?
+**CSS** was used to style the page, as most of the occurrences of .css files in the page came in the form of "style.css". 
 
-Because HathiTrust listed **html**, **CSS**, and **JavaScript** in their technologies, I'm led to believe those file types were used in the creation of the website. These files weren't exposed very simply by the web browser, but further research into the HathiTrust GitHub showed me JavaScript files that were used for custom themes or resources for the site. 
+**JavaScript** was found, but harder to pinpoint exactly where it was being used. I did see an events.js file, with a tag to tiktok analytics, which means the app is likely using JavaScriptfor the live updates on the app, essentially the user interactivity side of the app. I was also able to confirm the use of JavaScript by searching through the GameChanger GitHub and seeing hat languages they used for what projects. 
 
-I saw files that used **Ruby** and **Perl**, which are technologies I'm unfamiliar with. It seemed like those two technologies made up most of the GitHub, which makes me think that the frontend was made mostly using those resources. 
+I think there was also use of JavaScript frameworks, though I couldn't exactly pinpoint which ones. I also think there was use of APIs to access data from third-party applications that would be providing real time data.
 
 #### Who Built the Website
 
-The website mentions the archive being built by the "HathiTrust Enterprise Technology team", but no specific names were listed. I researched into the seperate sections of the website labeled "Our Team" at https://www.hathitrust.org/about/our-team/. There was also a section of the website called "HathiTrust Research Center, which listed specific people, some from UIUC, but they didn't seem to be involved with the actual front-end of the website. 
+The only names I could find from the application was the users that committed to th eGitHub page:
 
-The people I did find who may have helped build the website was:
+- Jerry Hsu
+- Brad Haan
+- Pete Droll
 
-Brian Hall: Application Programmer/Analyst Senior
-- Brian works as part of the technological team designing and developing the infrastructure and components of the digital library repository.
+All three of these users were listed as GameChanger employees. 
 
-Gayathri Ramesh: UX Designer
-- Gayathri conducts user research and designs new components for our digital library and web interfaces with an emphasis on accessibility and universal design principles.
+It's important to note that GameChangers is owned and ran by **Dick's Sporting Goods**, which measn this application is likely a very large team instead of an smaller/individual project. The website doesn't list the actual roles of the people involved, the sheer size of the application can help me assume that there are lots of people working on this application, with lots of different roles. 
 
-K'Ron Spar: Devops Engineer
-- K'Ron helps to support HathiTrust's application hosting environments and to support the development team through a variety of technologies including automated testing, deployment, monitoring, and alerting.
+Gamechanger's larger logistics:
+- Millions of users and teams
+- Tracks over 24 million games
+- Integrates AI-generated summaries and analytics
 
-Caryl Wyatt: Front End Developer
-- Caryl focuses on our digital library interfaces and designs solutions to meet the needs of diverse users from around the world. This includes modernizing interfaces for our search, online book-reading, personalized collection management, and continuing to expand our focus on accessibility.
-
-The title and description of these four employees seemed to match up with something related to the front-end portion of the website. 
+The amount of users, the size of live data that the application handles, the presence of a large backend structure, and the publicity showing that it's a commerical product owned by a large corporation means there are likely adapt employees working on the application. 
+- 
