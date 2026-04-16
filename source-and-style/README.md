@@ -27,4 +27,20 @@ I saw files that used **Ruby** and **Perl**, which are technologies I'm unfamili
 
 #### Who Built the Website
 
-The website mentions the archive being built by the "HathiTrust Enterprise Technology team
+The website mentions the archive being built by the "HathiTrust Enterprise Technology team", but no specific names were listed. I researched into the seperate sections of the website labeled "Our Team" at https://www.hathitrust.org/about/our-team/. There was also a section of the website called "HathiTrust Research Center, which listed specific people, some from UIUC, but they didn't seem to be involved with the actual front-end of the website. 
+
+The people I did find who may have helped build the website was:
+
+Brian Hall: Application Programmer/Analyst Senior
+- Brian works as part of the technological team designing and developing the infrastructure and components of the digital library repository.
+
+Gayathri Ramesh: UX Designer
+- Gayathri conducts user research and designs new components for our digital library and web interfaces with an emphasis on accessibility and universal design principles.
+
+K'Ron Spar: Devops Engineer
+- K'Ron helps to support HathiTrust's application hosting environments and to support the development team through a variety of technologies including automated testing, deployment, monitoring, and alerting.
+
+Caryl Wyatt: Front End Developer
+- Caryl focuses on our digital library interfaces and designs solutions to meet the needs of diverse users from around the world. This includes modernizing interfaces for our search, online book-reading, personalized collection management, and continuing to expand our focus on accessibility.
+
+The title and description of these four employees seemed to match up with something related to the front-end portion of the website. 
