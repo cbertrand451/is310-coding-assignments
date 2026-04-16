@@ -34,13 +34,15 @@ I think there was also use of JavaScript frameworks, though I couldn't exactly p
 
 #### Who Built the Website
 
+The only ownership of the page I could find was a note at the bottom of the webpage: "©GameChanger Media, Inc"
+
 The only names I could find from the application was the users that committed to th eGitHub page:
 
 - Jerry Hsu
 - Brad Haan
 - Pete Droll
 
-All three of these users were listed as GameChanger employees. 
+All three of these users were listed as GameChanger employees, and also could be backend developers instead of front-end.
 
 It's important to note that GameChangers is owned and ran by **Dick's Sporting Goods**, which measn this application is likely a very large team instead of an smaller/individual project. The website doesn't list the actual roles of the people involved, the sheer size of the application can help me assume that there are lots of people working on this application, with lots of different roles. 
 
@@ -50,4 +52,5 @@ Gamechanger's larger logistics:
 - Integrates AI-generated summaries and analytics
 
 The amount of users, the size of live data that the application handles, the presence of a large backend structure, and the publicity showing that it's a commerical product owned by a large corporation means there are likely adapt employees working on the application. 
-- 
+
+
