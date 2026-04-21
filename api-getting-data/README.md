@@ -1,5 +1,6 @@
 # GETting Culture Across APIs
 
+### What is Trefle API
 For this assignment, I chose to work with the [Trefle API](https://trefle.io/). This API is a datasource for botanical and global plants. I have a hobby for houseplants, and wanted to use an API that I would be interested in, but still have relevant data to the Europeana database. 
 
 I had to brainstorm a plant that would likely have multiple uses or historical data. I leaned away from modern houseplants like a Monstera or Pothos, just because I wasn;t sure how much data would show up on Europeana. I chose ***Lavender*** as a botanincal to explore, because I know it has meidacal and herbal pruposes that may appear in historical data. 
