@@ -1,5 +1,5 @@
 # Exploring and Visualizing Culture
-## Cultural Gender Differences Over Time
+**Cultural Gender Differences Over Time**
 
 
 ## Datasets
@@ -7,6 +7,8 @@
 I used the Goodreads Top 500 Novels Dataset from [Responsible Datasets in Context Project](https://www.responsible-datasets-in-context.com/posts/top-500-novels/top-500-novels.html)
 
 I also used the New York Times Bestseller Dataset from the [Post45 Data Collectove](https://data.post45.org/posts/nyt_hardcover_fiction_bestsellers/)
+
+Both the datasets were read remote with a url.
 
 ## Analysis 
 
