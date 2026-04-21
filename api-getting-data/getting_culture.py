@@ -6,6 +6,7 @@ from rich.table import Table
 import apikey
 import os
 import json
+from pathlib import Path
 
 console = Console()
 
@@ -16,6 +17,37 @@ os.environ['EUROPEANA_API_KEY'] = europeana_api_key
 # import trefle key
 trefle_api_key = apikey.load("TREFLE_API_KEY")
 os.environ['TREFLE_API_KEY'] = trefle_api_key
+
+# function to take away instances of api keys in data
+def redact_sensitive_data(value):
+    if isinstance(value, dict):
+        return {
+            key: redact_sensitive_data(nested_value)
+            for key, nested_value in value.items()
+        }
+
+    if isinstance(value, list):
+        return [redact_sensitive_data(item) for item in value]
+
+    if isinstance(value, str):
+        redacted_value = value
+        key_replacements = {
+            europeana_api_key: "EUROPEANA_API_KEY",
+            trefle_api_key: "TREFLE_API_KEY"
+        }
+
+        for api_key, replacement in key_replacements.items():
+            if api_key:
+                redacted_value = redacted_value.replace(api_key, replacement)
+        return redacted_value
+
+    return value
+
+# function to display first value in field, used for the console table
+def first_value(value, default="N/A"):
+    if isinstance(value, list):
+        return str(value[0]) if value else default
+    return str(value) if value else default
 
 # define trefle endpoint and parameters for call
 # chose lavender, because it will likely have data from europeana as well
@@ -54,48 +86,24 @@ table.add_column("Type", style="yellow")
 table.add_column("Link", style="blue")
 
 for item in response.get("items", []):
-    title = item.get("title", "N/A")
-    item_type = item.get("type", "N/A")
-    link = item.get("link", "N/A")
+    title = first_value(item.get("title"))
+    item_type = first_value(item.get("type"))
+    link = redact_sensitive_data(first_value(item.get("link")))
 
-    # europeana results were coming back as lists, so I just took the first item
-    # did it for every value just in case
-    if isinstance(title, list):
-        if title:
-            title = title[0] 
-        else:
-            title = "N/A"
-    else:
-        title = str(title)
-
-    if isinstance(item_type, list):
-        if item_type:
-            item_type = item_type[0] 
-        else:
-            item_type = "N/A"
-    else:
-        item_type = str(item_type)
-
-    if isinstance(link, list):
-        if link:
-            link = link[0] 
-        else:
-            link = "N/A"
-    else:
-        link = str(link)
-
-    # add values to the table, but this is really just for the visual and the original values will be in the json
+    # add values to the table, but this is really just for the visual
     table.add_row(title, item_type, link)
 
 console.print(table)
 
 final_data = {
     # "search_query": params["q"],
-    "trefle_response": lavender_item,
-    "europeana_response": europeana_items
+    "trefle_response": redact_sensitive_data(lavender_item),
+    "europeana_response": redact_sensitive_data(europeana_items)
 }
 
-with open("trefle_europeana_query_data.json", "w") as f:
-    json.dump(final_data, f, indent=4)
+# had to use copilot to help structure exporting file to the current location
+OUTPUT_FILE = Path(__file__).with_name("trefle_europeana_query_data.json")
 
+with open(OUTPUT_FILE, "w") as f:
+    json.dump(final_data, f, indent=4)
 
