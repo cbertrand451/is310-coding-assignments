@@ -1,11 +1,14 @@
 # Fandom Wikis and Web Scraping
 
-This folder contains my script for scraping the Marvel Fandom Wiki with Python. The script scrapes Marvel movie data.
+This folder contains my script for scraping the Marvel Fandom Wiki with Python. The script scrapes Marvel movie data. 
+
+I chose to scrape the Marvel Movies from this fandom, because it held a considerable amount of data, and the data was consistent across the pages. A lot of the other Wikis I visited seemed patchy and inconsistent. This data may be useful to researchers studying film productions, or the timeline of a franchise, and it's growth across the movies it releases. 
 
 ***robots.txt***: https://marvel.fandom.com/robots.txt
 
 Here is the link to the *robots.txt*, which allows for web scraping for **User-agent**. The only 
 pages that weren;t allowed to be scraped were **user** pages and **special** pages, which the movies fell under neither. 
+
 
 ### WARNING
 
