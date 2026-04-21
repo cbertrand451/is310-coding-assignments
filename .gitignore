@@ -12,4 +12,7 @@
 *.env
 *.json
 
-is310-env/
+.is310-env/
+
+__pycache__/
+*.pyc
