@@ -15,7 +15,7 @@ Assignments are all organized in their own folder and labeled based on the weekl
 - [Command Line Data Curation](python-libraries)
 - [Fandom Wikis and Web Scraping](web-scraping)
 - [GETting Culture Across APIs](api-getting-data)
-- 
+- [Exploring and Visualizing Culture](pandas-eda)
 
 
 ## Course Website
