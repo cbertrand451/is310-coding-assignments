@@ -10,7 +10,6 @@
 
 # Sensitive data files
 *.env
-*.json
 
 .is310-env/
 
