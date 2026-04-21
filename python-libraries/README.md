@@ -4,11 +4,11 @@ This script lets you enter favorite UIUC food places, food items, and ratings fr
 
 - Asks for a restaurant name, food item, and rating
 - Lets you confirm each entry before saving it
-- Saves the final data to a CSV file named `uiuc_foods.csv`
+- Saves the final data to a CSV file named **uiuc_foods.csv**
 
 ## Requirements
 
-This script uses the `rich` Python library.
+This script uses the **rich** Python library.
 
 Install it by running *pip install rich* in your terminal
 
