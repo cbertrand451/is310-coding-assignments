@@ -1,0 +1,3319 @@
+{
+    "trefle_response": {
+        "id": 55246,
+        "common_name": "Lavender",
+        "slug": "lavandula-angustifolia",
+        "scientific_name": "Lavandula angustifolia",
+        "year": 1768,
+        "bibliography": "Gard. Dict. ed. 8.: n.\u00b0 2 (1768)",
+        "author": "Mill.",
+        "status": "accepted",
+        "rank": "species",
+        "family_common_name": null,
+        "genus_id": 2720,
+        "image_url": "https://bs.plantnet.org/image/o/010ffc8860641c73888c8664743f1527d284f258",
+        "synonyms": [],
+        "genus": "Lavandula",
+        "family": "Lamiaceae",
+        "links": {
+            "self": "/api/v1/species/lavandula-angustifolia",
+            "plant": "/api/v1/plants/lavandula-angustifolia",
+            "genus": "/api/v1/genus/lavandula"
+        }
+    },
+    "europeana_response": [
+        {
+            "completeness": 9,
+            "country": [
+                "Serbia"
+            ],
+            "dataProvider": [
+                "National Library of Serbia"
+            ],
+            "dcCreator": [
+                "/direct/2111631",
+                "/direct/2111626",
+                "/direct/2111624",
+                "/direct/2111627",
+                "/direct/2111634",
+                "/direct/2111633",
+                "/direct/2111628",
+                "/direct/2111630"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "/direct/2111631",
+                    "/direct/2111626",
+                    "/direct/2111624",
+                    "/direct/2111627",
+                    "/direct/2111634",
+                    "/direct/2111633",
+                    "/direct/2111628",
+                    "/direct/2111630"
+                ]
+            },
+            "dcDescription": [
+                "Essential oil composition of Lavandula angustifolia Mill. cultivated in the mid hills of Uttarakhand, India"
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Essential oil composition of Lavandula angustifolia Mill. cultivated in the mid hills of Uttarakhand, India"
+                ]
+            },
+            "dcLanguage": [
+                "eng",
+                "en"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "eng",
+                    "en"
+                ]
+            },
+            "dcTitleLangAware": {
+                "en": [
+                    "Essential oil composition of Lavandula angustifolia Mill. cultivated in the mid hills of Uttarakhand, India"
+                ]
+            },
+            "edmConcept": [
+                "/direct/2111632",
+                "/direct/2111629",
+                "/direct/2111635",
+                "/direct/2111625",
+                "/direct/2111636",
+                "/direct/2111623"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "essential oil"
+                },
+                {
+                    "def": "Lamiaceae"
+                },
+                {
+                    "def": "Lavandula angustifolia"
+                },
+                {
+                    "def": "inflorescence"
+                },
+                {
+                    "def": "Journal"
+                },
+                {
+                    "def": "GC-MS."
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "en": [
+                    "Lavandula angustifolia",
+                    "inflorescence",
+                    "Lamiaceae",
+                    "Journal",
+                    "GC-MS.",
+                    "essential oil"
+                ]
+            },
+            "edmDatasetName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "edmIsShownAt": [
+                "http://doiserbia.nb.rs/Article.aspx?id=0352-51391000015V"
+            ],
+            "edmIsShownBy": [
+                "http://doiserbia.nb.rs/ft.aspx?id=0352-51391000015V"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdoiserbia.nb.rs%2Fimages%2Fdoi%2F03525139_0.jpg&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2010"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "2010"
+                ]
+            },
+            "europeanaCollectionName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "europeanaCompleteness": 9,
+            "guid": "https://www.europeana.eu/item/92040/URN_RS_NAE_d674f70f_15b0_42e5_9bc8_2e6446906b98cho?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/92040/URN_RS_NAE_d674f70f_15b0_42e5_9bc8_2e6446906b98cho",
+            "index": 0,
+            "language": [
+                "mul"
+            ],
+            "link": "https://api.europeana.eu/record/92040/URN_RS_NAE_d674f70f_15b0_42e5_9bc8_2e6446906b98cho.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "National Library of Serbia"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 87.594086,
+            "timestamp": 1752058114801,
+            "timestamp_created": "2020-10-26T18:21:39.866Z",
+            "timestamp_created_epoch": 1603736499866,
+            "timestamp_update": "2021-06-07T09:45:37.842Z",
+            "timestamp_update_epoch": 1623059137842,
+            "title": [
+                "Essential oil composition of Lavandula angustifolia Mill. cultivated in the mid hills of Uttarakhand, India"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 9,
+            "country": [
+                "Serbia"
+            ],
+            "dataProvider": [
+                "National Library of Serbia"
+            ],
+            "dcCreator": [
+                "/direct/2151568",
+                "/direct/2151569",
+                "/direct/2151567",
+                "/direct/2151566",
+                "/direct/2151562",
+                "/direct/2151561",
+                "/direct/2151558",
+                "/direct/2151563"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "/direct/2151568",
+                    "/direct/2151569",
+                    "/direct/2151567",
+                    "/direct/2151566",
+                    "/direct/2151562",
+                    "/direct/2151561",
+                    "/direct/2151558",
+                    "/direct/2151563"
+                ]
+            },
+            "dcDescription": [
+                "Experimentally induced dermatomycoses at rats and treatment with Lavandula angustifolia essential oil"
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Experimentally induced dermatomycoses at rats and treatment with Lavandula angustifolia essential oil"
+                ]
+            },
+            "dcLanguage": [
+                "eng",
+                "en"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "eng",
+                    "en"
+                ]
+            },
+            "dcTitleLangAware": {
+                "en": [
+                    "Experimentally induced dermatomycoses at rats and treatment with Lavandula angustifolia essential oil"
+                ]
+            },
+            "edmConcept": [
+                "/direct/2151559",
+                "/direct/2151564",
+                "/direct/2151570",
+                "/direct/2151571",
+                "/direct/2151560"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "essential oil"
+                },
+                {
+                    "def": "Dermatomycetes"
+                },
+                {
+                    "def": "Journal"
+                },
+                {
+                    "def": "Lavandula angustifolia"
+                },
+                {
+                    "def": "antufungal activity"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "en": [
+                    "antufungal activity",
+                    "Lavandula angustifolia",
+                    "Dermatomycetes",
+                    "Journal",
+                    "essential oil"
+                ]
+            },
+            "edmDatasetName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "edmIsShownAt": [
+                "http://doiserbia.nb.rs/Article.aspx?id=0352-49060713249S"
+            ],
+            "edmIsShownBy": [
+                "http://doiserbia.nb.rs/ft.aspx?id=0352-49060713249S"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdoiserbia.nb.rs%2Fimages%2Fdoi%2F03524906_0.jpg&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2007"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "2007"
+                ]
+            },
+            "europeanaCollectionName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "europeanaCompleteness": 9,
+            "guid": "https://www.europeana.eu/item/92040/URN_RS_NAE_9e3b9384_6260_4689_82df_9543b300b3c9cho?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/92040/URN_RS_NAE_9e3b9384_6260_4689_82df_9543b300b3c9cho",
+            "index": 0,
+            "language": [
+                "mul"
+            ],
+            "link": "https://api.europeana.eu/record/92040/URN_RS_NAE_9e3b9384_6260_4689_82df_9543b300b3c9cho.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "National Library of Serbia"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 96.3719,
+            "timestamp": 1752058079935,
+            "timestamp_created": "2020-10-26T18:21:39.866Z",
+            "timestamp_created_epoch": 1603736499866,
+            "timestamp_update": "2021-06-07T09:45:37.842Z",
+            "timestamp_update_epoch": 1623059137842,
+            "title": [
+                "Experimentally induced dermatomycoses at rats and treatment with Lavandula angustifolia essential oil"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 9,
+            "country": [
+                "Serbia"
+            ],
+            "dataProvider": [
+                "National Library of Serbia"
+            ],
+            "dcCreator": [
+                "/direct/2119346",
+                "/direct/2119349",
+                "/direct/2119340"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "/direct/2119346",
+                    "/direct/2119349",
+                    "/direct/2119340"
+                ]
+            },
+            "dcDescription": [
+                "Utilization of Lavandula angustifolia Miller extracts as natural repellents, pharmaceutical and industrial auxiliaries"
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Utilization of Lavandula angustifolia Miller extracts as natural repellents, pharmaceutical and industrial auxiliaries"
+                ]
+            },
+            "dcLanguage": [
+                "en",
+                "eng"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "en",
+                    "eng"
+                ]
+            },
+            "dcTitleLangAware": {
+                "en": [
+                    "Utilization of Lavandula angustifolia Miller extracts as natural repellents, pharmaceutical and industrial auxiliaries"
+                ]
+            },
+            "edmConcept": [
+                "/direct/2119342",
+                "/direct/2119341",
+                "/direct/2119344",
+                "/direct/2119345",
+                "/direct/2119348",
+                "/direct/2119347",
+                "/direct/2119339",
+                "/direct/2119338"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "essential oil"
+                },
+                {
+                    "def": "Lavandula angustifolia Miller"
+                },
+                {
+                    "def": "Journal"
+                },
+                {
+                    "def": "pharmaceutics"
+                },
+                {
+                    "def": "repellent"
+                },
+                {
+                    "def": "concrete"
+                },
+                {
+                    "def": "absolute"
+                },
+                {
+                    "def": "industrial"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "en": [
+                    "concrete",
+                    "industrial",
+                    "pharmaceutics",
+                    "Lavandula angustifolia Miller",
+                    "absolute",
+                    "Journal",
+                    "essential oil",
+                    "repellent"
+                ]
+            },
+            "edmDatasetName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "edmIsShownAt": [
+                "http://doiserbia.nb.rs/Article.aspx?id=0352-51390401001Y"
+            ],
+            "edmIsShownBy": [
+                "http://doiserbia.nb.rs/ft.aspx?id=0352-51390401001Y"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdoiserbia.nb.rs%2Fimages%2Fdoi%2F03525139_0.jpg&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2004"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "2004"
+                ]
+            },
+            "europeanaCollectionName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "europeanaCompleteness": 9,
+            "guid": "https://www.europeana.eu/item/92040/URN_RS_NAE_8dbfa19f_2613_4a87_b135_e48e2b1ee713cho?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/92040/URN_RS_NAE_8dbfa19f_2613_4a87_b135_e48e2b1ee713cho",
+            "index": 0,
+            "language": [
+                "mul"
+            ],
+            "link": "https://api.europeana.eu/record/92040/URN_RS_NAE_8dbfa19f_2613_4a87_b135_e48e2b1ee713cho.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "National Library of Serbia"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 93.30699,
+            "timestamp": 1752058048382,
+            "timestamp_created": "2020-10-26T18:21:39.866Z",
+            "timestamp_created_epoch": 1603736499866,
+            "timestamp_update": "2021-06-07T09:45:37.842Z",
+            "timestamp_update_epoch": 1623059137842,
+            "title": [
+                "Utilization of Lavandula angustifolia Miller extracts as natural repellents, pharmaceutical and industrial auxiliaries"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Serbia"
+            ],
+            "dataProvider": [
+                "National Library of Serbia"
+            ],
+            "dcCreator": [
+                "/direct/1985912",
+                "/direct/1985914",
+                "/direct/1985908",
+                "/direct/1985907",
+                "/direct/1985915",
+                "/direct/1985911",
+                "/direct/1985909"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "/direct/1985912",
+                    "/direct/1985914",
+                    "/direct/1985908",
+                    "/direct/1985907",
+                    "/direct/1985915",
+                    "/direct/1985911",
+                    "/direct/1985909"
+                ]
+            },
+            "dcDescription": [
+                "Antibacterial activity chemical composition relationship of the essential oils from cultivated plants from Serbia"
+            ],
+            "dcDescriptionLangAware": {
+                "sr": [
+                    "Antibacterial activity chemical composition relationship of the essential oils from cultivated plants from Serbia"
+                ]
+            },
+            "dcLanguage": [
+                "sr",
+                "srp"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "sr",
+                    "srp"
+                ]
+            },
+            "dcTitleLangAware": {
+                "sr": [
+                    "Antibacterial activity chemical composition relationship of the essential oils from cultivated plants from Serbia"
+                ]
+            },
+            "edmConcept": [
+                "/direct/1985906",
+                "/direct/1985917",
+                "/direct/1985916",
+                "/direct/1985913"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Thymus vulgaris"
+                },
+                {
+                    "def": "Lavandula angustifolia"
+                },
+                {
+                    "def": "Antibacterial activity"
+                },
+                {
+                    "def": "Journal"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "sr": [
+                    "Lavandula angustifolia",
+                    "Antibacterial activity",
+                    "Journal",
+                    "Thymus vulgaris"
+                ]
+            },
+            "edmDatasetName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "edmIsShownAt": [
+                "http://doiserbia.nb.rs/Article.aspx?id=0367-598X1100051S"
+            ],
+            "edmIsShownBy": [
+                "http://doiserbia.nb.rs/ft.aspx?id=0367-598X1100051S"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdoiserbia.nb.rs%2Fimages%2Fdoi%2F0367598X_0.jpg&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2011"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "sr": [
+                    "2011"
+                ]
+            },
+            "europeanaCollectionName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/92040/URN_RS_NAE_4292e8b2_0353_49c0_bceb_54db8ab981bacho?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/92040/URN_RS_NAE_4292e8b2_0353_49c0_bceb_54db8ab981bacho",
+            "index": 0,
+            "language": [
+                "mul"
+            ],
+            "link": "https://api.europeana.eu/record/92040/URN_RS_NAE_4292e8b2_0353_49c0_bceb_54db8ab981bacho.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "National Library of Serbia"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by/4.0/"
+            ],
+            "score": 24.229233,
+            "timestamp": 1752057973345,
+            "timestamp_created": "2020-10-26T18:21:39.866Z",
+            "timestamp_created_epoch": 1603736499866,
+            "timestamp_update": "2021-06-07T09:45:37.842Z",
+            "timestamp_update_epoch": 1623059137842,
+            "title": [
+                "Antibacterial activity chemical composition relationship of the essential oils from cultivated plants from Serbia"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Serbia"
+            ],
+            "dataProvider": [
+                "National Library of Serbia"
+            ],
+            "dcCreator": [
+                "/direct/2341053",
+                "/direct/2341058",
+                "/direct/2341059"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "/direct/2341053",
+                    "/direct/2341058",
+                    "/direct/2341059"
+                ]
+            },
+            "dcDescription": [
+                "Herbicidal potential of lavender (Lavandula angustifolia Mill.) essential oil components on bristly foxtail (Setaria verticillata (L.) P. Beauv.): Comparison with carvacrol, carvone, thymol and eugenol"
+            ],
+            "dcDescriptionLangAware": {
+                "en": [
+                    "Herbicidal potential of lavender (Lavandula angustifolia Mill.) essential oil components on bristly foxtail (Setaria verticillata (L.) P. Beauv.): Comparison with carvacrol, carvone, thymol and eugenol"
+                ]
+            },
+            "dcLanguage": [
+                "eng",
+                "en"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "eng",
+                    "en"
+                ]
+            },
+            "dcTitleLangAware": {
+                "en": [
+                    "Herbicidal potential of lavender (Lavandula angustifolia Mill.) essential oil components on bristly foxtail (Setaria verticillata (L.) P. Beauv.): Comparison with carvacrol, carvone, thymol and eugenol"
+                ]
+            },
+            "edmConcept": [
+                "/direct/2341051",
+                "/direct/2341050",
+                "/direct/2341055",
+                "/direct/2341054",
+                "/direct/2341057",
+                "/direct/2341056"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "phytotoxicity"
+                },
+                {
+                    "def": "bioassay"
+                },
+                {
+                    "def": "synergy"
+                },
+                {
+                    "def": "natural herbicide"
+                },
+                {
+                    "def": "Journal"
+                },
+                {
+                    "def": "whole-range assessment"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "en": [
+                    "phytotoxicity",
+                    "synergy",
+                    "natural herbicide",
+                    "bioassay",
+                    "Journal",
+                    "whole-range assessment"
+                ]
+            },
+            "edmDatasetName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "edmIsShownAt": [
+                "http://doiserbia.nb.rs/Article.aspx?id=0354-46642000016K"
+            ],
+            "edmIsShownBy": [
+                "http://doiserbia.nb.rs/ft.aspx?id=0354-46642000016K"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fdoiserbia.nb.rs%2Fimages%2Fdoi%2F03544664_0.jpg&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "2020"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "2020"
+                ]
+            },
+            "europeanaCollectionName": [
+                "92040_NL_DOI_Serbia"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/92040/URN_RS_NAE_4068a59a_7a7e_4546_a269_a14020d79f46cho?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/92040/URN_RS_NAE_4068a59a_7a7e_4546_a269_a14020d79f46cho",
+            "index": 0,
+            "language": [
+                "mul"
+            ],
+            "link": "https://api.europeana.eu/record/92040/URN_RS_NAE_4068a59a_7a7e_4546_a269_a14020d79f46cho.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "National Library of Serbia"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+            ],
+            "score": 67.672714,
+            "timestamp": 1752057928996,
+            "timestamp_created": "2020-12-01T15:17:54.716Z",
+            "timestamp_created_epoch": 1606835874716,
+            "timestamp_update": "2021-06-07T09:45:37.842Z",
+            "timestamp_update_epoch": 1623059137842,
+            "title": [
+                "Herbicidal potential of lavender (Lavandula angustifolia Mill.) essential oil components on bristly foxtail (Setaria verticillata (L.) P. Beauv.): Comparison with carvacrol, carvone, thymol and eugenol"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 0,
+            "country": [
+                "Sweden"
+            ],
+            "dataProvider": [
+                "Uppsala University"
+            ],
+            "dcCreator": [
+                "Sadek Garboui Samira 1972- , Uppsala universitet, Systematisk zoologi"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "Sadek Garboui Samira 1972- , Uppsala universitet, Systematisk zoologi"
+                ]
+            },
+            "dcDescription": [
+                "<p><em>Ixodes ricinus</em> is the main vector of Lyme borreliosis and Tick-borne encephalitis in Europe. Repellents provide a practical means of protection against tick bites and can therefore reduce transmission of tick-borne diseases.</p><p>In laboratory tests, pieces of cloth treated with MyggA Natural\u00ae (a commercial insect repellent) or with the essential oils of <em>Corymbia citriodora</em> (30%), <em>Lavandula angustifolia</em> (1 and 30%), <em>Pelargonium graveolens</em> (1 and 30%), <em>Hyptis suaveolens</em> (10%), <em>Salvadora persica</em>, <em>Pistacia atlantica</em>, <em>Juniperus phoenicea</em> (20%) and methyl jasmonate (MJ) (0.5%, 1.0%, 2.0% and 5.0%) showed strong repellent activity against <em>I. ricinus</em> nymphs.</p><p>In a tick-infested woodland in east-central Sweden, we tested by randomized, standardised methodology the potential anti-tick repellent activity of MyggA Natural\u00ae (roll-on), two concentrations of MyggA Natural\u00ae spray, RB86 (a commercially available insect repellent for horses), the essential oil of <em>C. citriodora</em> and three concentrations of MJ. Each substance was dissolved in acetone and applied separately to 1 m<sup>2</sup> cloths which were then pulled over vegetation. Nymphal tick numbers on the cloths were recorded at 10-m intervals and differed significantly between treated cloths and the untreated control and also between collectors.</p><p>Volatile compounds from fresh and dried leaves of <em>H. suaveolens</em> and the essential oils of <em>H. suaveolens</em> (from Laos and Guinea Bissau) and <em>S. persica</em>, <em>P. atlantica</em> and <em>J. phoenicea</em> (from Libya) were collected by solid phase micro-extraction (SPME) and the constituents were identified by gas chromatography - mass spectrometry (GC-MS). Two main sesquiterpene hydrocarbons in the <em>H. suaveolens</em> oil were \u03b2-caryophyllene and humulene. These were modified by oxidation and sulphidation to obtain effective tick repellent compounds with lower volatility. In all three oils from Libyan plants the main monoterpene hydrocarbons were \u03b1-pinene, sabinene, \u03b2-pinene, myrcene, \u03b1-phellandrene, 4-carene, \u03b2-phellandrene and \u03b3-terpinene.</p><p>The selected plant species contained numerous volatiles known to have insecticidal, acaricidal, and/or insect repellent properties.</p>",
+                "H\u00e4rtill 5 uppsatser",
+                "Diss. (sammanfattning) Uppsala : Uppsala universitet, 2008",
+                "filosofie doktorsexamen",
+                "Doctor philosophiae",
+                "degree of Doctor of Philosophy",
+                "Docteur \u00e8s lettres",
+                "Zootissalen, Evolutionsmuseet (Museum of evolution), Norbyv\u00e4gen 16, SE-752 36, Uppsala",
+                "H\u00e4rtill 5 uppsatser",
+                "Diss. (sammanfattning) Uppsala : Uppsala universitet, 2008",
+                "filosofie doktorsexamen",
+                "Doctor philosophiae",
+                "<p><em>Ixodes ricinus</em> is the main vector of Lyme borreliosis and Tick-borne encephalitis in Europe. Repellents provide a practical means of protection against tick bites and can therefore reduce transmission of tick-borne diseases.</p><p>In laboratory tests, pieces of cloth treated with MyggA Natural\u00ae (a commercial insect repellent) or with the essential oils of <em>Corymbia citriodora</em> (30%), <em>Lavandula angustifolia</em> (1 and 30%), <em>Pelargonium graveolens</em> (1 and 30%), <em>Hyptis suaveolens</em> (10%), <em>Salvadora persica</em>, <em>Pistacia atlantica</em>, <em>Juniperus phoenicea</em> (20%) and methyl jasmonate (MJ) (0.5%, 1.0%, 2.0% and 5.0%) showed strong repellent activity against <em>I. ricinus</em> nymphs.</p><p>In a tick-infested woodland in east-central Sweden, we tested by randomized, standardised methodology the potential anti-tick repellent activity of MyggA Natural\u00ae (roll-on), two concentrations of MyggA Natural\u00ae spray, RB86 (a commercially available insect repellent for horses), the essential oil of <em>C. citriodora</em> and three concentrations of MJ. Each substance was dissolved in acetone and applied separately to 1 m<sup>2</sup> cloths which were then pulled over vegetation. Nymphal tick numbers on the cloths were recorded at 10-m intervals and differed significantly between treated cloths and the untreated control and also between collectors.</p><p>Volatile compounds from fresh and dried leaves of <em>H. suaveolens</em> and the essential oils of <em>H. suaveolens</em> (from Laos and Guinea Bissau) and <em>S. persica</em>, <em>P. atlantica</em> and <em>J. phoenicea</em> (from Libya) were collected by solid phase micro-extraction (SPME) and the constituents were identified by gas chromatography - mass spectrometry (GC-MS). Two main sesquiterpene hydrocarbons in the <em>H. suaveolens</em> oil were \u03b2-caryophyllene and humulene. These were modified by oxidation and sulphidation to obtain effective tick repellent compounds with lower volatility. In all three oils from Libyan plants the main monoterpene hydrocarbons were \u03b1-pinene, sabinene, \u03b2-pinene, myrcene, \u03b1-phellandrene, 4-carene, \u03b2-phellandrene and \u03b3-terpinene.</p><p>The selected plant species contained numerous volatiles known to have insecticidal, acaricidal, and/or insect repellent properties.</p>",
+                "degree of Doctor of Philosophy",
+                "Docteur \u00e8s lettres"
+            ],
+            "dcDescriptionLangAware": {
+                "sv": [
+                    "H\u00e4rtill 5 uppsatser",
+                    "Diss. (sammanfattning) Uppsala : Uppsala universitet, 2008",
+                    "filosofie doktorsexamen",
+                    "Doctor philosophiae"
+                ],
+                "def": [
+                    "<p><em>Ixodes ricinus</em> is the main vector of Lyme borreliosis and Tick-borne encephalitis in Europe. Repellents provide a practical means of protection against tick bites and can therefore reduce transmission of tick-borne diseases.</p><p>In laboratory tests, pieces of cloth treated with MyggA Natural\u00ae (a commercial insect repellent) or with the essential oils of <em>Corymbia citriodora</em> (30%), <em>Lavandula angustifolia</em> (1 and 30%), <em>Pelargonium graveolens</em> (1 and 30%), <em>Hyptis suaveolens</em> (10%), <em>Salvadora persica</em>, <em>Pistacia atlantica</em>, <em>Juniperus phoenicea</em> (20%) and methyl jasmonate (MJ) (0.5%, 1.0%, 2.0% and 5.0%) showed strong repellent activity against <em>I. ricinus</em> nymphs.</p><p>In a tick-infested woodland in east-central Sweden, we tested by randomized, standardised methodology the potential anti-tick repellent activity of MyggA Natural\u00ae (roll-on), two concentrations of MyggA Natural\u00ae spray, RB86 (a commercially available insect repellent for horses), the essential oil of <em>C. citriodora</em> and three concentrations of MJ. Each substance was dissolved in acetone and applied separately to 1 m<sup>2</sup> cloths which were then pulled over vegetation. Nymphal tick numbers on the cloths were recorded at 10-m intervals and differed significantly between treated cloths and the untreated control and also between collectors.</p><p>Volatile compounds from fresh and dried leaves of <em>H. suaveolens</em> and the essential oils of <em>H. suaveolens</em> (from Laos and Guinea Bissau) and <em>S. persica</em>, <em>P. atlantica</em> and <em>J. phoenicea</em> (from Libya) were collected by solid phase micro-extraction (SPME) and the constituents were identified by gas chromatography - mass spectrometry (GC-MS). Two main sesquiterpene hydrocarbons in the <em>H. suaveolens</em> oil were \u03b2-caryophyllene and humulene. These were modified by oxidation and sulphidation to obtain effective tick repellent compounds with lower volatility. In all three oils from Libyan plants the main monoterpene hydrocarbons were \u03b1-pinene, sabinene, \u03b2-pinene, myrcene, \u03b1-phellandrene, 4-carene, \u03b2-phellandrene and \u03b3-terpinene.</p><p>The selected plant species contained numerous volatiles known to have insecticidal, acaricidal, and/or insect repellent properties.</p>",
+                    "H\u00e4rtill 5 uppsatser",
+                    "Diss. (sammanfattning) Uppsala : Uppsala universitet, 2008",
+                    "filosofie doktorsexamen",
+                    "Doctor philosophiae",
+                    "degree of Doctor of Philosophy",
+                    "Docteur \u00e8s lettres",
+                    "Zootissalen, Evolutionsmuseet (Museum of evolution), Norbyv\u00e4gen 16, SE-752 36, Uppsala"
+                ],
+                "en": [
+                    "<p><em>Ixodes ricinus</em> is the main vector of Lyme borreliosis and Tick-borne encephalitis in Europe. Repellents provide a practical means of protection against tick bites and can therefore reduce transmission of tick-borne diseases.</p><p>In laboratory tests, pieces of cloth treated with MyggA Natural\u00ae (a commercial insect repellent) or with the essential oils of <em>Corymbia citriodora</em> (30%), <em>Lavandula angustifolia</em> (1 and 30%), <em>Pelargonium graveolens</em> (1 and 30%), <em>Hyptis suaveolens</em> (10%), <em>Salvadora persica</em>, <em>Pistacia atlantica</em>, <em>Juniperus phoenicea</em> (20%) and methyl jasmonate (MJ) (0.5%, 1.0%, 2.0% and 5.0%) showed strong repellent activity against <em>I. ricinus</em> nymphs.</p><p>In a tick-infested woodland in east-central Sweden, we tested by randomized, standardised methodology the potential anti-tick repellent activity of MyggA Natural\u00ae (roll-on), two concentrations of MyggA Natural\u00ae spray, RB86 (a commercially available insect repellent for horses), the essential oil of <em>C. citriodora</em> and three concentrations of MJ. Each substance was dissolved in acetone and applied separately to 1 m<sup>2</sup> cloths which were then pulled over vegetation. Nymphal tick numbers on the cloths were recorded at 10-m intervals and differed significantly between treated cloths and the untreated control and also between collectors.</p><p>Volatile compounds from fresh and dried leaves of <em>H. suaveolens</em> and the essential oils of <em>H. suaveolens</em> (from Laos and Guinea Bissau) and <em>S. persica</em>, <em>P. atlantica</em> and <em>J. phoenicea</em> (from Libya) were collected by solid phase micro-extraction (SPME) and the constituents were identified by gas chromatography - mass spectrometry (GC-MS). Two main sesquiterpene hydrocarbons in the <em>H. suaveolens</em> oil were \u03b2-caryophyllene and humulene. These were modified by oxidation and sulphidation to obtain effective tick repellent compounds with lower volatility. In all three oils from Libyan plants the main monoterpene hydrocarbons were \u03b1-pinene, sabinene, \u03b2-pinene, myrcene, \u03b1-phellandrene, 4-carene, \u03b2-phellandrene and \u03b3-terpinene.</p><p>The selected plant species contained numerous volatiles known to have insecticidal, acaricidal, and/or insect repellent properties.</p>",
+                    "degree of Doctor of Philosophy"
+                ],
+                "fr": [
+                    "Docteur \u00e8s lettres"
+                ]
+            },
+            "dcLanguage": [
+                "en",
+                "en"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "en",
+                    "en"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Digital Comprehensive Summaries of Uppsala Dissertations from the Faculty of Science and Technology"
+                ],
+                "en": [
+                    "Plant-Derived Chemicals as Tick Repellents",
+                    "Digital Comprehensive Summaries of Uppsala Dissertations from the Faculty of Science and Technology"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/2713",
+                "http://data.europeana.eu/concept/23"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Buruko oihal"
+                },
+                {
+                    "def": "Tesi"
+                },
+                {
+                    "def": "Guimpe"
+                },
+                {
+                    "def": "Studienabschlussarbeit"
+                },
+                {
+                    "def": "\u0423\u0431\u0440\u0443\u0441"
+                },
+                {
+                    "def": "\u0414\u0438\u043f\u043b\u043e\u043c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430"
+                },
+                {
+                    "def": "Dok"
+                },
+                {
+                    "def": "Examensarbete"
+                },
+                {
+                    "def": "V\u00e9u"
+                },
+                {
+                    "def": "Tese de titula\u00e7\u00e3o"
+                },
+                {
+                    "def": "Nuometas"
+                },
+                {
+                    "def": "Diplominis darbas"
+                },
+                {
+                    "def": "Wimple"
+                },
+                {
+                    "def": "Thesis"
+                },
+                {
+                    "def": "Soggolo"
+                },
+                {
+                    "def": "Tesi accademica"
+                },
+                {
+                    "def": "Podwika"
+                },
+                {
+                    "def": "Praca dyplomowa"
+                },
+                {
+                    "def": "Gri\u00f1\u00f3n"
+                },
+                {
+                    "def": "Tesis de titulaci\u00f3n"
+                },
+                {
+                    "def": "Kap"
+                },
+                {
+                    "def": "Scriptie"
+                },
+                {
+                    "def": "Opinn\u00e4ytety\u00f6"
+                },
+                {
+                    "def": "\u0414\u0438\u043f\u043b\u043e\u043c\u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0430"
+                },
+                {
+                    "def": "Diplomdarbs"
+                },
+                {
+                    "def": "Th\u00e8se"
+                },
+                {
+                    "def": "Szakdolgozat"
+                },
+                {
+                    "def": "Diplomov\u00e1 pr\u00e1ca"
+                },
+                {
+                    "def": "Zaklju\u010dno delo"
+                },
+                {
+                    "def": "Tr\u00e1chtas"
+                },
+                {
+                    "def": "Tesi"
+                },
+                {
+                    "def": "\u0394\u03b9\u03b1\u03c4\u03c1\u03b9\u03b2\u03ae"
+                },
+                {
+                    "def": "V\u00e4itekiri"
+                },
+                {
+                    "def": "Vysoko\u0161kolsk\u00e1 pr\u00e1ce"
+                },
+                {
+                    "def": "Tez\u0103"
+                },
+                {
+                    "def": "Afhandling"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Studienabschlussarbeit",
+                    "Guimpe"
+                ],
+                "ru": [
+                    "\u0414\u0438\u043f\u043b\u043e\u043c\u043d\u0430\u044f \u0440\u0430\u0431\u043e\u0442\u0430",
+                    "\u0423\u0431\u0440\u0443\u0441"
+                ],
+                "fi": [
+                    "Opinn\u00e4ytety\u00f6"
+                ],
+                "pt": [
+                    "V\u00e9u",
+                    "Tese de titula\u00e7\u00e3o"
+                ],
+                "bg": [
+                    "\u0414\u0438\u043f\u043b\u043e\u043c\u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0430"
+                ],
+                "lt": [
+                    "Diplominis darbas",
+                    "Nuometas"
+                ],
+                "lv": [
+                    "Diplomdarbs"
+                ],
+                "fr": [
+                    "Th\u00e8se"
+                ],
+                "hu": [
+                    "Szakdolgozat"
+                ],
+                "sk": [
+                    "Diplomov\u00e1 pr\u00e1ca"
+                ],
+                "sl": [
+                    "Zaklju\u010dno delo"
+                ],
+                "ga": [
+                    "Tr\u00e1chtas"
+                ],
+                "ca": [
+                    "Tesi"
+                ],
+                "sv": [
+                    "Dok",
+                    "Examensarbete"
+                ],
+                "el": [
+                    "\u0394\u03b9\u03b1\u03c4\u03c1\u03b9\u03b2\u03ae"
+                ],
+                "en": [
+                    "Thesis",
+                    "Wimple"
+                ],
+                "it": [
+                    "Tesi accademica",
+                    "Soggolo"
+                ],
+                "es": [
+                    "Tesis de titulaci\u00f3n",
+                    "Gri\u00f1\u00f3n"
+                ],
+                "et": [
+                    "V\u00e4itekiri"
+                ],
+                "eu": [
+                    "Tesi",
+                    "Buruko oihal"
+                ],
+                "cs": [
+                    "Vysoko\u0161kolsk\u00e1 pr\u00e1ce"
+                ],
+                "pl": [
+                    "Praca dyplomowa",
+                    "Podwika"
+                ],
+                "ro": [
+                    "Tez\u0103"
+                ],
+                "da": [
+                    "Afhandling"
+                ],
+                "nl": [
+                    "Scriptie",
+                    "Kap"
+                ]
+            },
+            "edmDatasetName": [
+                "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+            ],
+            "edmIsShownAt": [
+                "http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-9368"
+            ],
+            "edmIsShownBy": [
+                "http://www.mamut.net/controls/shop/shops/12/8/productdet.asp?gid=3&subgid=30&wwwalias=acta&pid=8997"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.mamut.net%2Fcontrols%2Fshop%2Fshops%2F12%2F8%2Fproductdet.asp%3Fgid%3D3%26subgid%3D30%26wwwalias%3Dacta%26pid%3D8997&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "Second millenium AD"
+                },
+                {
+                    "def": "Second millenium AD, years 1001-2000"
+                },
+                {
+                    "def": "Time"
+                },
+                {
+                    "def": "Chronological period"
+                },
+                {
+                    "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                },
+                {
+                    "def": "2008-11-12"
+                },
+                {
+                    "def": "2008-12-05"
+                },
+                {
+                    "def": "2008"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "Second millenium AD",
+                    "Second millenium AD, years 1001-2000",
+                    "Time",
+                    "Chronological period"
+                ],
+                "zxx": [
+                    "2008-11-12",
+                    "2008-12-05",
+                    "2008"
+                ],
+                "fr": [
+                    "2e mill\u00e9naire apr\u00e8s J.-C."
+                ]
+            },
+            "europeanaCollectionName": [
+                "9200111_Ag_EU_TEL_a1041_EuropeanaLibraries"
+            ],
+            "europeanaCompleteness": 0,
+            "guid": "https://www.europeana.eu/item/9200111/BibliographicResource_1000085961838?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/9200111/BibliographicResource_1000085961838",
+            "index": 0,
+            "language": [
+                "sv"
+            ],
+            "link": "https://api.europeana.eu/record/9200111/BibliographicResource_1000085961838.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "The European Library"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 14.790268,
+            "timestamp": 1752048030538,
+            "timestamp_created": "2014-09-07T10:38:13.098Z",
+            "timestamp_created_epoch": 1410086293098,
+            "timestamp_update": "2014-09-07T10:38:13.098Z",
+            "timestamp_update_epoch": 1410086293098,
+            "title": [
+                "Digital Comprehensive Summaries of Uppsala Dissertations from the Faculty of Science and Technology",
+                "Plant-Derived Chemicals as Tick Repellents",
+                "Digital Comprehensive Summaries of Uppsala Dissertations from the Faculty of Science and Technology"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "2008"
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Spain"
+            ],
+            "dataProvider": [
+                "Complutense University of Madrid"
+            ],
+            "dcCreator": [
+                "Mar\u00eda Isabel. Garc\u00eda Vallejo"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "Mar\u00eda Isabel. Garc\u00eda Vallejo"
+                ]
+            },
+            "dcDescription": [
+                "Mar\u00eda Isabel Garc\u00eda Vallejo ; direcci\u00f3n de A. Velasco-Negueruela, M. C. Garc\u00eda Vallejo.",
+                "Tesis Universidad Complutense de Madrid, ensayo de la quimiotaxonom\u00eda /",
+                "Se aborda en esta tesis, un ensayo quimiotaxon\u00f3mico del g\u00e9nero lavandula l. En Espa\u00f1a. Se han investigado las especies: lavandula angustifolia miller (grupo), l. Latifolia medicus, l. Lanata boiss., L. Stoechas l., L.pedunculata (miller) cav., L. Sampaiona (rozeira) Rivas-Mart\u00ednez (grupo), l.viridis l'her., L. Luisieri (rozeira) Rivas-Mart\u00ednez, l. Dentata l- y l.Multifida l. El trabajo se ha centrado en la composici\u00f3n qu\u00edmica de los aceites esenciales de las especies mencionadas utilizando la cromatograf\u00eda de gases y diversas t\u00e9cnicas espectrosc\u00f3picas y espectrofotom\u00e9tricas, se ha probado la gran variaci\u00f3n infraespec\u00edfica (quimiotipos) que presentan las lavandulas ib\u00e9ricas. Otro de los objetivos que nos propusimos al abordar este estudio, fue el utilizar los caracteres qu\u00edmicos, terpenos de los aceites esenciales, para prestar apoyo a la sistem\u00e1tica cl\u00e1sica basada tradicionalmente en los caracteres metam\u00f3rficos. Como resultado hemos modificado ligeramente la clasificaci\u00f3n especifica del g\u00e9nero as\u00ed como denunciado la presencia de varias notoespecies nuevas para la ciencia.",
+                "Mar\u00eda Isabel Garc\u00eda Vallejo ; direcci\u00f3n de A. Velasco-Negueruela, M. C. Garc\u00eda Vallejo.",
+                "Tesis Universidad Complutense de Madrid, ensayo de la quimiotaxonom\u00eda /",
+                "Se aborda en esta tesis, un ensayo quimiotaxon\u00f3mico del g\u00e9nero lavandula l. En Espa\u00f1a. Se han investigado las especies: lavandula angustifolia miller (grupo), l. Latifolia medicus, l. Lanata boiss., L. Stoechas l., L.pedunculata (miller) cav., L. Sampaiona (rozeira) Rivas-Mart\u00ednez (grupo), l.viridis l'her., L. Luisieri (rozeira) Rivas-Mart\u00ednez, l. Dentata l- y l.Multifida l. El trabajo se ha centrado en la composici\u00f3n qu\u00edmica de los aceites esenciales de las especies mencionadas utilizando la cromatograf\u00eda de gases y diversas t\u00e9cnicas espectrosc\u00f3picas y espectrofotom\u00e9tricas, se ha probado la gran variaci\u00f3n infraespec\u00edfica (quimiotipos) que presentan las lavandulas ib\u00e9ricas. Otro de los objetivos que nos propusimos al abordar este estudio, fue el utilizar los caracteres qu\u00edmicos, terpenos de los aceites esenciales, para prestar apoyo a la sistem\u00e1tica cl\u00e1sica basada tradicionalmente en los caracteres metam\u00f3rficos. Como resultado hemos modificado ligeramente la clasificaci\u00f3n especifica del g\u00e9nero as\u00ed como denunciado la presencia de varias notoespecies nuevas para la ciencia.",
+                "Audience: Specialized"
+            ],
+            "dcDescriptionLangAware": {
+                "def": [
+                    "Mar\u00eda Isabel Garc\u00eda Vallejo ; direcci\u00f3n de A. Velasco-Negueruela, M. C. Garc\u00eda Vallejo.",
+                    "Tesis Universidad Complutense de Madrid, ensayo de la quimiotaxonom\u00eda /",
+                    "Se aborda en esta tesis, un ensayo quimiotaxon\u00f3mico del g\u00e9nero lavandula l. En Espa\u00f1a. Se han investigado las especies: lavandula angustifolia miller (grupo), l. Latifolia medicus, l. Lanata boiss., L. Stoechas l., L.pedunculata (miller) cav., L. Sampaiona (rozeira) Rivas-Mart\u00ednez (grupo), l.viridis l'her., L. Luisieri (rozeira) Rivas-Mart\u00ednez, l. Dentata l- y l.Multifida l. El trabajo se ha centrado en la composici\u00f3n qu\u00edmica de los aceites esenciales de las especies mencionadas utilizando la cromatograf\u00eda de gases y diversas t\u00e9cnicas espectrosc\u00f3picas y espectrofotom\u00e9tricas, se ha probado la gran variaci\u00f3n infraespec\u00edfica (quimiotipos) que presentan las lavandulas ib\u00e9ricas. Otro de los objetivos que nos propusimos al abordar este estudio, fue el utilizar los caracteres qu\u00edmicos, terpenos de los aceites esenciales, para prestar apoyo a la sistem\u00e1tica cl\u00e1sica basada tradicionalmente en los caracteres metam\u00f3rficos. Como resultado hemos modificado ligeramente la clasificaci\u00f3n especifica del g\u00e9nero as\u00ed como denunciado la presencia de varias notoespecies nuevas para la ciencia."
+                ],
+                "en": [
+                    "Audience: Specialized"
+                ],
+                "es": [
+                    "Mar\u00eda Isabel Garc\u00eda Vallejo ; direcci\u00f3n de A. Velasco-Negueruela, M. C. Garc\u00eda Vallejo.",
+                    "Tesis Universidad Complutense de Madrid, ensayo de la quimiotaxonom\u00eda /",
+                    "Se aborda en esta tesis, un ensayo quimiotaxon\u00f3mico del g\u00e9nero lavandula l. En Espa\u00f1a. Se han investigado las especies: lavandula angustifolia miller (grupo), l. Latifolia medicus, l. Lanata boiss., L. Stoechas l., L.pedunculata (miller) cav., L. Sampaiona (rozeira) Rivas-Mart\u00ednez (grupo), l.viridis l'her., L. Luisieri (rozeira) Rivas-Mart\u00ednez, l. Dentata l- y l.Multifida l. El trabajo se ha centrado en la composici\u00f3n qu\u00edmica de los aceites esenciales de las especies mencionadas utilizando la cromatograf\u00eda de gases y diversas t\u00e9cnicas espectrosc\u00f3picas y espectrofotom\u00e9tricas, se ha probado la gran variaci\u00f3n infraespec\u00edfica (quimiotipos) que presentan las lavandulas ib\u00e9ricas. Otro de los objetivos que nos propusimos al abordar este estudio, fue el utilizar los caracteres qu\u00edmicos, terpenos de los aceites esenciales, para prestar apoyo a la sistem\u00e1tica cl\u00e1sica basada tradicionalmente en los caracteres metam\u00f3rficos. Como resultado hemos modificado ligeramente la clasificaci\u00f3n especifica del g\u00e9nero as\u00ed como denunciado la presencia de varias notoespecies nuevas para la ciencia."
+                ]
+            },
+            "dcLanguage": [
+                "es"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "es"
+                ]
+            },
+            "dcTitleLangAware": {
+                "def": [
+                    "Aceites esenciales de las Lavandulas ib\u00e9ricas ensayo de la quimiotaxonom\u00eda"
+                ],
+                "en": [
+                    "Essential oils from the Iberian Lavandulas chemotaxonomy test"
+                ],
+                "es": [
+                    "Aceites esenciales de las Lavandulas ib\u00e9ricas ensayo de la quimiotaxonom\u00eda"
+                ]
+            },
+            "edmDatasetName": [
+                "9200101_Ag_EU_TEL_Europeana_Libraries_a1012"
+            ],
+            "edmIsShownBy": [
+                "http://www.ucm.es/BUCM/tesis/19911996/X/3/X3013301.pdf"
+            ],
+            "edmPlaceLabel": [
+                {
+                    "def": "\u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7"
+                }
+            ],
+            "edmPlaceLabelLangAware": {
+                "def": [
+                    "\u039c\u03b1\u03b4\u03c1\u03af\u03c4\u03b7"
+                ]
+            },
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=http%3A%2F%2Fwww.ucm.es%2FBUCM%2Ftesis%2F19911996%2FX%2F3%2FX3013301.pdf&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "Second millenium AD"
+                },
+                {
+                    "def": "Second millenium AD, years 1001-2000"
+                },
+                {
+                    "def": "2e mill\u00e9naire apr\u00e8s J.-C."
+                },
+                {
+                    "def": "2002"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "en": [
+                    "Second millenium AD",
+                    "Second millenium AD, years 1001-2000"
+                ],
+                "zxx": [
+                    "2002"
+                ],
+                "fr": [
+                    "2e mill\u00e9naire apr\u00e8s J.-C."
+                ]
+            },
+            "europeanaCollectionName": [
+                "9200101_Ag_EU_TEL_Europeana_Libraries_a1012"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/9200101/BibliographicResource_1000126626276?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/9200101/BibliographicResource_1000126626276",
+            "index": 0,
+            "language": [
+                "es"
+            ],
+            "link": "https://api.europeana.eu/record/9200101/BibliographicResource_1000126626276.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "The European Library"
+            ],
+            "rights": [
+                "http://rightsstatements.org/vocab/InC/1.0/"
+            ],
+            "score": 26.557804,
+            "timestamp": 1752070561365,
+            "timestamp_created": "2014-06-30T13:38:38.000Z",
+            "timestamp_created_epoch": 1404135518000,
+            "timestamp_update": "2018-05-02T14:00:55.645Z",
+            "timestamp_update_epoch": 1525269655645,
+            "title": [
+                "Essential oils from the Iberian Lavandulas chemotaxonomy test",
+                "Aceites esenciales de las Lavandulas ib\u00e9ricas ensayo de la quimiotaxonom\u00eda",
+                "PhD thesis published Universidad Complutense de Madrid",
+                "Tesis doctorales publicadas Universidad Complutense de Madrid",
+                "Aceites esenciales de las Lavandulas ib\u00e9ricas ensayo de la quimiotaxonom\u00eda",
+                "Tesis doctorales publicadas Universidad Complutense de Madrid"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ],
+            "year": [
+                "2002"
+            ]
+        },
+        {
+            "completeness": 7,
+            "country": [
+                "Netherlands"
+            ],
+            "dataProvider": [
+                "Rijksmuseum"
+            ],
+            "dcDescription": [
+                "Lavendel (Lavandula angustifolia) en abrikoos (Prunus armeniaca), genummerd 108 en 109"
+            ],
+            "dcDescriptionLangAware": {
+                "nl": [
+                    "Lavendel (Lavandula angustifolia) en abrikoos (Prunus armeniaca), genummerd 108 en 109"
+                ]
+            },
+            "dcLanguage": [
+                "nl"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "nl"
+                ]
+            },
+            "dcTitleLangAware": {
+                "nl": [
+                    "Lavendel en abrikoos",
+                    "Cognoscite lilia"
+                ]
+            },
+            "edmConcept": [
+                "http://data.europeana.eu/concept/2090",
+                "http://data.europeana.eu/concept/2538",
+                "http://data.europeana.eu/concept/163"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Papier"
+                },
+                {
+                    "def": "Druckgrafik"
+                },
+                {
+                    "def": "Botanik"
+                },
+                {
+                    "def": "Paperi"
+                },
+                {
+                    "def": "Grafiikka"
+                },
+                {
+                    "def": "Kasvitiede"
+                },
+                {
+                    "def": "\u0411\u0443\u043c\u0430\u0433\u0430"
+                },
+                {
+                    "def": "\u042d\u0441\u0442\u0430\u043c\u043f"
+                },
+                {
+                    "def": "\u0411\u043e\u0442\u0430\u043d\u0438\u043a\u0430"
+                },
+                {
+                    "def": "Papel"
+                },
+                {
+                    "def": "Estampa"
+                },
+                {
+                    "def": "Bot\u00e2nica"
+                },
+                {
+                    "def": "\u0425\u0430\u0440\u0442\u0438\u044f"
+                },
+                {
+                    "def": "\u041f\u0435\u0447\u0430\u0442\u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u043a\u0430"
+                },
+                {
+                    "def": "\u0411\u043e\u0442\u0430\u043d\u0438\u043a\u0430"
+                },
+                {
+                    "def": "Popierius"
+                },
+                {
+                    "def": "Estampas"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "Papir"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "Pap\u012brs"
+                },
+                {
+                    "def": "Estamps"
+                },
+                {
+                    "def": "Bot\u0101nika"
+                },
+                {
+                    "def": "Papier"
+                },
+                {
+                    "def": "Estampe"
+                },
+                {
+                    "def": "Botanique"
+                },
+                {
+                    "def": "Pap\u00edr"
+                },
+                {
+                    "def": "Metszet"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "Papier"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "Papir"
+                },
+                {
+                    "def": "Natis"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "P\u00e1ip\u00e9ar"
+                },
+                {
+                    "def": "Prionta"
+                },
+                {
+                    "def": "Luibheola\u00edocht"
+                },
+                {
+                    "def": "Paper"
+                },
+                {
+                    "def": "Estampa"
+                },
+                {
+                    "def": "Bot\u00e0nica"
+                },
+                {
+                    "def": "Papper"
+                },
+                {
+                    "def": "Tryck"
+                },
+                {
+                    "def": "Botanik"
+                },
+                {
+                    "def": "\u03a7\u03b1\u03c1\u03c4\u03af"
+                },
+                {
+                    "def": "\u0395\u03ba\u03c4\u03cd\u03c0\u03c9\u03c3\u03b7"
+                },
+                {
+                    "def": "\u0392\u03bf\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae"
+                },
+                {
+                    "def": "Karta"
+                },
+                {
+                    "def": "Botanija"
+                },
+                {
+                    "def": "Paper"
+                },
+                {
+                    "def": "Print"
+                },
+                {
+                    "def": "Botany"
+                },
+                {
+                    "def": "Carta"
+                },
+                {
+                    "def": "Stampa"
+                },
+                {
+                    "def": "Botanica"
+                },
+                {
+                    "def": "Papel"
+                },
+                {
+                    "def": "Estampado"
+                },
+                {
+                    "def": "Bot\u00e1nica"
+                },
+                {
+                    "def": "Paber"
+                },
+                {
+                    "def": "Tr\u00fckipilt"
+                },
+                {
+                    "def": "Botaanika"
+                },
+                {
+                    "def": "Pap\u00edr"
+                },
+                {
+                    "def": "Tisk"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "Paper"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "Papier"
+                },
+                {
+                    "def": "Sztych"
+                },
+                {
+                    "def": "Botanika"
+                },
+                {
+                    "def": "Papir"
+                },
+                {
+                    "def": "Tryk"
+                },
+                {
+                    "def": "Botanik"
+                },
+                {
+                    "def": "H\u00e2rtie"
+                },
+                {
+                    "def": "Stamp\u0103"
+                },
+                {
+                    "def": "Botanic\u0103"
+                },
+                {
+                    "def": "Papier"
+                },
+                {
+                    "def": "Prent"
+                },
+                {
+                    "def": "Plantkunde"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Druckgrafik",
+                    "Botanik",
+                    "Papier"
+                ],
+                "fi": [
+                    "Paperi",
+                    "Grafiikka",
+                    "Kasvitiede"
+                ],
+                "ru": [
+                    "\u0411\u0443\u043c\u0430\u0433\u0430",
+                    "\u0411\u043e\u0442\u0430\u043d\u0438\u043a\u0430",
+                    "\u042d\u0441\u0442\u0430\u043c\u043f"
+                ],
+                "pt": [
+                    "Papel",
+                    "Bot\u00e2nica",
+                    "Estampa"
+                ],
+                "bg": [
+                    "\u0425\u0430\u0440\u0442\u0438\u044f",
+                    "\u0411\u043e\u0442\u0430\u043d\u0438\u043a\u0430",
+                    "\u041f\u0435\u0447\u0430\u0442\u043d\u0430 \u0433\u0440\u0430\u0444\u0438\u043a\u0430"
+                ],
+                "lt": [
+                    "Popierius",
+                    "Botanika",
+                    "Estampas"
+                ],
+                "hr": [
+                    "Botanika",
+                    "Papir"
+                ],
+                "lv": [
+                    "Bot\u0101nika",
+                    "Pap\u012brs",
+                    "Estamps"
+                ],
+                "fr": [
+                    "Botanique",
+                    "Papier",
+                    "Estampe"
+                ],
+                "hu": [
+                    "Metszet",
+                    "Pap\u00edr",
+                    "Botanika"
+                ],
+                "sk": [
+                    "Botanika",
+                    "Papier"
+                ],
+                "sl": [
+                    "Natis",
+                    "Botanika",
+                    "Papir"
+                ],
+                "ga": [
+                    "P\u00e1ip\u00e9ar",
+                    "Prionta",
+                    "Luibheola\u00edocht"
+                ],
+                "ca": [
+                    "Estampa",
+                    "Paper",
+                    "Bot\u00e0nica"
+                ],
+                "sv": [
+                    "Papper",
+                    "Botanik",
+                    "Tryck"
+                ],
+                "el": [
+                    "\u03a7\u03b1\u03c1\u03c4\u03af",
+                    "\u0392\u03bf\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae",
+                    "\u0395\u03ba\u03c4\u03cd\u03c0\u03c9\u03c3\u03b7"
+                ],
+                "mt": [
+                    "Botanija",
+                    "Karta"
+                ],
+                "en": [
+                    "Print",
+                    "Botany",
+                    "Paper"
+                ],
+                "it": [
+                    "Carta",
+                    "Stampa",
+                    "Botanica"
+                ],
+                "es": [
+                    "Papel",
+                    "Estampado",
+                    "Bot\u00e1nica"
+                ],
+                "et": [
+                    "Tr\u00fckipilt",
+                    "Botaanika",
+                    "Paber"
+                ],
+                "cs": [
+                    "Pap\u00edr",
+                    "Botanika",
+                    "Tisk"
+                ],
+                "eu": [
+                    "Botanika",
+                    "Paper"
+                ],
+                "pl": [
+                    "Botanika",
+                    "Papier",
+                    "Sztych"
+                ],
+                "da": [
+                    "Botanik",
+                    "Tryk",
+                    "Papir"
+                ],
+                "ro": [
+                    "Stamp\u0103",
+                    "Botanic\u0103",
+                    "H\u00e2rtie"
+                ],
+                "nl": [
+                    "Plantkunde",
+                    "Prent",
+                    "Papier"
+                ]
+            },
+            "edmDatasetName": [
+                "90402_M_NL_Rijksmuseum"
+            ],
+            "edmIsShownAt": [
+                "http://hdl.handle.net/10934/RM0001.COLLECT.514141"
+            ],
+            "edmIsShownBy": [
+                "https://lh3.ggpht.com/gdO_Im_FKaMCi_OIYD5MCeGDjyKhxUBsmvVtJbgcE0QeLuSLBE1662R7-m6kuColbkB0xFA9Qo8V3b0lEwkRj4hwMvg=s0"
+            ],
+            "edmPlaceAltLabel": [
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland"
+                },
+                {
+                    "def": "Gro\u00dfbritannien"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "U.K."
+                },
+                {
+                    "def": "U. K."
+                },
+                {
+                    "def": "U K"
+                },
+                {
+                    "def": "G.B."
+                },
+                {
+                    "def": "G. B."
+                },
+                {
+                    "def": "G B"
+                },
+                {
+                    "def": "G.B.R."
+                },
+                {
+                    "def": "G. B. R."
+                },
+                {
+                    "def": "G B R"
+                },
+                {
+                    "def": "Vereinigte K\u00f6nigreich"
+                },
+                {
+                    "def": "Iso-Britannia"
+                },
+                {
+                    "def": "Britannia"
+                },
+                {
+                    "def": "United Kingdom"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0438"
+                },
+                {
+                    "def": "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e"
+                },
+                {
+                    "def": "\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+                },
+                {
+                    "def": "\u0422\u0443\u043c\u0430\u043d\u043d\u044b\u0439 \u0410\u043b\u044c\u0431\u0438\u043e\u043d"
+                },
+                {
+                    "def": "Storbritannien och Nordirland"
+                },
+                {
+                    "def": "F\u00f6renade konungariket Storbritannien och Nordirland"
+                },
+                {
+                    "def": "F\u00f6renade kungariket"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "Stor-Britannien"
+                },
+                {
+                    "def": "Stor-Britannien och Nordirland"
+                },
+                {
+                    "def": "Stor-Britannien och Nord-Irland"
+                },
+                {
+                    "def": "Stora Britannien"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "Reino Unido da Gr\u00e3-Bretanha e Irlanda do Norte"
+                },
+                {
+                    "def": "Londres, Reino Unido"
+                },
+                {
+                    "def": "Londres, Inglaterra"
+                },
+                {
+                    "def": "Londres, UK"
+                },
+                {
+                    "def": "Londres, GBR"
+                },
+                {
+                    "def": "\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+                },
+                {
+                    "def": "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u043e\u0442\u043e \u043a\u0440\u0430\u043b\u0441\u0442\u0432\u043e"
+                },
+                {
+                    "def": "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u043e \u043a\u0440\u0430\u043b\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+                },
+                {
+                    "def": "Renju Unit tal-Gran Brittanja u l-Irlanda ta\u2019 Fuq"
+                },
+                {
+                    "def": "JK"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "United Kingdom of Great Britain and Northern Ireland"
+                },
+                {
+                    "def": "U.K."
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "U. K."
+                },
+                {
+                    "def": "U K"
+                },
+                {
+                    "def": "G.B."
+                },
+                {
+                    "def": "G. B."
+                },
+                {
+                    "def": "G B"
+                },
+                {
+                    "def": "Great Britain"
+                },
+                {
+                    "def": "G.B.R."
+                },
+                {
+                    "def": "G B R"
+                },
+                {
+                    "def": "Britain"
+                },
+                {
+                    "def": "Great Britain and Northern Ireland"
+                },
+                {
+                    "def": "The United Kingdom of Great Britain and Northern Ireland"
+                },
+                {
+                    "def": "The UK"
+                },
+                {
+                    "def": "London, UK"
+                },
+                {
+                    "def": "London, United Kingdom"
+                },
+                {
+                    "def": "London, England"
+                },
+                {
+                    "def": "London UK"
+                },
+                {
+                    "def": "London U.K."
+                },
+                {
+                    "def": "Greater London"
+                },
+                {
+                    "def": "Londinium"
+                },
+                {
+                    "def": "Lo\u00f1"
+                },
+                {
+                    "def": "Lundenwic"
+                },
+                {
+                    "def": "Londinio"
+                },
+                {
+                    "def": "Londini"
+                },
+                {
+                    "def": "Londiniensium"
+                },
+                {
+                    "def": "Augusta"
+                },
+                {
+                    "def": "Trinovantum"
+                },
+                {
+                    "def": "Kaerlud"
+                },
+                {
+                    "def": "Karelundein"
+                },
+                {
+                    "def": "Lunden"
+                },
+                {
+                    "def": "Big Smoke"
+                },
+                {
+                    "def": "The Big Smoke"
+                },
+                {
+                    "def": "Lundenburh"
+                },
+                {
+                    "def": "Lundenburgh"
+                },
+                {
+                    "def": "Llyn Dain"
+                },
+                {
+                    "def": "Llan Dian"
+                },
+                {
+                    "def": "Londinion"
+                },
+                {
+                    "def": "Loniniensi"
+                },
+                {
+                    "def": "Lon."
+                },
+                {
+                    "def": "Lo\u00f1."
+                },
+                {
+                    "def": "Lond."
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske"
+                },
+                {
+                    "def": "Velika Britanija"
+                },
+                {
+                    "def": "VB"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "Regno Unito di Gran Bretagna e Irlanda del Nord"
+                },
+                {
+                    "def": "Gran Bretagna"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "Royaume-Uni de Grande-Bretagne et d\u2019Irlande du Nord"
+                },
+                {
+                    "def": "Royaume Uni"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "Le Royaume-Uni de Grande-Bretagne et d\u2019Irlande du Nord"
+                },
+                {
+                    "def": "Royaume-uni"
+                },
+                {
+                    "def": "R.-U."
+                },
+                {
+                    "def": "R.U."
+                },
+                {
+                    "def": "Grande-Bretagne"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "Nagy-Britannia"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "Nagy-Britannia \u00e9s \u00c9szak-\u00cdrorsz\u00e1g Egyes\u00fclt Kir\u00e1lys\u00e1ga"
+                },
+                {
+                    "def": "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte"
+                },
+                {
+                    "def": "Gran Breta\u00f1a"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "Inglaterra"
+                },
+                {
+                    "def": "Reino Unido de la Gran Breta\u00f1a e Irlanda del Norte"
+                },
+                {
+                    "def": "Londres (Reino Unido)"
+                },
+                {
+                    "def": "Londres (Inglaterra)"
+                },
+                {
+                    "def": "\u00dchendkuningriik"
+                },
+                {
+                    "def": "Spojen\u00e9 kr\u00e1lovstv\u00ed Velk\u00e9 Brit\u00e1nie a Severn\u00edho Irska"
+                },
+                {
+                    "def": "Brit\u00e1nie"
+                },
+                {
+                    "def": "Velk\u00e1 Brit\u00e1nie"
+                },
+                {
+                    "def": "Spojen\u00e9 kr\u00e1\u013eovstvo Ve\u013ekej Brit\u00e1nie a Severn\u00e9ho \u00cdrska"
+                },
+                {
+                    "def": "Zdru\u017eeno kraljestvo Velike Britanije in Severne Irske"
+                },
+                {
+                    "def": "R\u00edocht Aontaithe"
+                },
+                {
+                    "def": "An RA"
+                },
+                {
+                    "def": "R\u00edocht Aontaithe na Breataine M\u00f3ire agus Thuaisceart \u00c9ireann"
+                },
+                {
+                    "def": "Doirelondain"
+                },
+                {
+                    "def": "Zjednoczone Kr\u00f3lestwo Wielkiej Brytanii i Irlandii P\u00f3\u0142nocnej"
+                },
+                {
+                    "def": "Regatul Unit al Marii Britanii \u0219i al Irlandei de Nord"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "United Kingdom"
+                },
+                {
+                    "def": "Det Forenede Kongerige"
+                },
+                {
+                    "def": "Storbritanien"
+                },
+                {
+                    "def": "Regne Unit De La Gran Bretanya I Irlanda Del Nord"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "United Kingdom"
+                },
+                {
+                    "def": "Reialme Unit"
+                },
+                {
+                    "def": "Reialme Unit de la Gran Bretanya i Irlanda del Nord"
+                },
+                {
+                    "def": "RU"
+                },
+                {
+                    "def": "Verenigde Koningrijk"
+                },
+                {
+                    "def": "V.K."
+                },
+                {
+                    "def": "United Kingdom"
+                },
+                {
+                    "def": "United Kingdom of Great Britain and Northern Ireland"
+                },
+                {
+                    "def": "Verenigd Konkrijk"
+                },
+                {
+                    "def": "United Kingdom of England, Scotland and Wales"
+                },
+                {
+                    "def": "Y Deyrnas Unedig"
+                },
+                {
+                    "def": "Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland"
+                },
+                {
+                    "def": "Verenigd Koninkrijk van Groot-Brittanni\u00eb en Noord-Ierland"
+                },
+                {
+                    "def": "VK"
+                },
+                {
+                    "def": "UK"
+                },
+                {
+                    "def": "GB"
+                },
+                {
+                    "def": "GBR"
+                },
+                {
+                    "def": "Londen, VK"
+                },
+                {
+                    "def": "Londen, Verenigd Koninkrijk"
+                },
+                {
+                    "def": "Londen, Engeland"
+                },
+                {
+                    "def": "London"
+                }
+            ],
+            "edmPlaceAltLabelLangAware": {
+                "de": [
+                    "UK",
+                    "Vereinigtes K\u00f6nigreich Gro\u00dfbritannien und Nordirland",
+                    "Gro\u00dfbritannien",
+                    "GB",
+                    "GBR",
+                    "U.K.",
+                    "U. K.",
+                    "U K",
+                    "G.B.",
+                    "G. B.",
+                    "G B",
+                    "G.B.R.",
+                    "G. B. R.",
+                    "G B R",
+                    "Vereinigte K\u00f6nigreich"
+                ],
+                "fi": [
+                    "Iso-Britannia",
+                    "Britannia",
+                    "United Kingdom",
+                    "UK",
+                    "GB"
+                ],
+                "ru": [
+                    "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u0438 \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u0438",
+                    "\u0421\u043e\u0435\u0434\u0438\u043d\u0451\u043d\u043d\u043e\u0435 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e",
+                    "\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+                    "\u0422\u0443\u043c\u0430\u043d\u043d\u044b\u0439 \u0410\u043b\u044c\u0431\u0438\u043e\u043d"
+                ],
+                "pt": [
+                    "GB",
+                    "GBR",
+                    "Reino Unido da Gr\u00e3-Bretanha e Irlanda do Norte",
+                    "Londres, Reino Unido",
+                    "Londres, Inglaterra",
+                    "Londres, UK",
+                    "Londres, GBR"
+                ],
+                "bg": [
+                    "\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+                    "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u043e\u0442\u043e \u043a\u0440\u0430\u043b\u0441\u0442\u0432\u043e",
+                    "\u041e\u0431\u0435\u0434\u0438\u043d\u0435\u043d\u043e \u043a\u0440\u0430\u043b\u0441\u0442\u0432\u043e \u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0438 \u0421\u0435\u0432\u0435\u0440\u043d\u0430 \u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"
+                ],
+                "lt": [
+                    "JK"
+                ],
+                "hr": [
+                    "UK",
+                    "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+                    "Velika Britanija",
+                    "VB",
+                    "GB"
+                ],
+                "fr": [
+                    "UK",
+                    "Royaume-Uni de Grande-Bretagne et d\u2019Irlande du Nord",
+                    "Royaume Uni",
+                    "GB",
+                    "GBR",
+                    "Le Royaume-Uni de Grande-Bretagne et d\u2019Irlande du Nord",
+                    "Royaume-uni",
+                    "R.-U.",
+                    "R.U.",
+                    "Grande-Bretagne",
+                    "London"
+                ],
+                "hu": [
+                    "Nagy-Britannia",
+                    "UK",
+                    "Nagy-Britannia \u00e9s \u00c9szak-\u00cdrorsz\u00e1g Egyes\u00fclt Kir\u00e1lys\u00e1ga"
+                ],
+                "sk": [
+                    "Spojen\u00e9 kr\u00e1\u013eovstvo Ve\u013ekej Brit\u00e1nie a Severn\u00e9ho \u00cdrska"
+                ],
+                "sl": [
+                    "Zdru\u017eeno kraljestvo Velike Britanije in Severne Irske"
+                ],
+                "ga": [
+                    "R\u00edocht Aontaithe",
+                    "An RA",
+                    "R\u00edocht Aontaithe na Breataine M\u00f3ire agus Thuaisceart \u00c9ireann",
+                    "Doirelondain"
+                ],
+                "ca": [
+                    "Regne Unit De La Gran Bretanya I Irlanda Del Nord",
+                    "UK",
+                    "United Kingdom",
+                    "Reialme Unit",
+                    "Reialme Unit de la Gran Bretanya i Irlanda del Nord",
+                    "RU"
+                ],
+                "sv": [
+                    "Storbritannien och Nordirland",
+                    "F\u00f6renade konungariket Storbritannien och Nordirland",
+                    "F\u00f6renade kungariket",
+                    "UK",
+                    "GB",
+                    "GBR",
+                    "Stor-Britannien",
+                    "Stor-Britannien och Nordirland",
+                    "Stor-Britannien och Nord-Irland",
+                    "Stora Britannien"
+                ],
+                "mt": [
+                    "Renju Unit tal-Gran Brittanja u l-Irlanda ta\u2019 Fuq"
+                ],
+                "en": [
+                    "UK",
+                    "United Kingdom of Great Britain and Northern Ireland",
+                    "U.K.",
+                    "GBR",
+                    "GB",
+                    "U. K.",
+                    "U K",
+                    "G.B.",
+                    "G. B.",
+                    "G B",
+                    "Great Britain",
+                    "G.B.R.",
+                    "G B R",
+                    "Britain",
+                    "Great Britain and Northern Ireland",
+                    "The United Kingdom of Great Britain and Northern Ireland",
+                    "The UK",
+                    "London, UK",
+                    "London, United Kingdom",
+                    "London, England",
+                    "London UK",
+                    "London U.K.",
+                    "Greater London",
+                    "Londinium",
+                    "Lo\u00f1",
+                    "Lundenwic",
+                    "Londinio",
+                    "Londini",
+                    "Londiniensium",
+                    "Augusta",
+                    "Trinovantum",
+                    "Kaerlud",
+                    "Karelundein",
+                    "Lunden",
+                    "Big Smoke",
+                    "The Big Smoke",
+                    "Lundenburh",
+                    "Lundenburgh",
+                    "Llyn Dain",
+                    "Llan Dian",
+                    "Londinion",
+                    "Loniniensi",
+                    "Lon.",
+                    "Lo\u00f1.",
+                    "Lond."
+                ],
+                "it": [
+                    "Regno Unito di Gran Bretagna e Irlanda del Nord",
+                    "Gran Bretagna",
+                    "UK",
+                    "GBR",
+                    "GB"
+                ],
+                "es": [
+                    "Reino Unido de Gran Breta\u00f1a e Irlanda del Norte",
+                    "Gran Breta\u00f1a",
+                    "UK",
+                    "GB",
+                    "GBR",
+                    "Inglaterra",
+                    "Reino Unido de la Gran Breta\u00f1a e Irlanda del Norte",
+                    "Londres (Reino Unido)",
+                    "Londres (Inglaterra)"
+                ],
+                "et": [
+                    "\u00dchendkuningriik"
+                ],
+                "cs": [
+                    "Spojen\u00e9 kr\u00e1lovstv\u00ed Velk\u00e9 Brit\u00e1nie a Severn\u00edho Irska",
+                    "Brit\u00e1nie",
+                    "Velk\u00e1 Brit\u00e1nie"
+                ],
+                "eu": [
+                    "London"
+                ],
+                "pl": [
+                    "Zjednoczone Kr\u00f3lestwo Wielkiej Brytanii i Irlandii P\u00f3\u0142nocnej"
+                ],
+                "ro": [
+                    "Regatul Unit al Marii Britanii \u0219i al Irlandei de Nord",
+                    "UK",
+                    "GBR"
+                ],
+                "da": [
+                    "United Kingdom",
+                    "Det Forenede Kongerige",
+                    "Storbritanien"
+                ],
+                "nl": [
+                    "Verenigde Koningrijk",
+                    "V.K.",
+                    "United Kingdom",
+                    "United Kingdom of Great Britain and Northern Ireland",
+                    "Verenigd Konkrijk",
+                    "United Kingdom of England, Scotland and Wales",
+                    "Y Deyrnas Unedig",
+                    "Verenigd Koninkrijk van Groot-Brittannie en Noord-Ierland",
+                    "Verenigd Koninkrijk van Groot-Brittanni\u00eb en Noord-Ierland",
+                    "VK",
+                    "UK",
+                    "GB",
+                    "GBR",
+                    "Londen, VK",
+                    "Londen, Verenigd Koninkrijk",
+                    "Londen, Engeland"
+                ]
+            },
+            "edmPlaceLabel": [
+                {
+                    "def": "Vereinigtes K\u00f6nigreich"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+                },
+                {
+                    "def": "\u041b\u043e\u043d\u0434\u043e\u043d"
+                },
+                {
+                    "def": "Yhdistynyt kuningaskunta"
+                },
+                {
+                    "def": "Lontoo"
+                },
+                {
+                    "def": "Reino Unido"
+                },
+                {
+                    "def": "Londres"
+                },
+                {
+                    "def": "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f"
+                },
+                {
+                    "def": "\u041b\u043e\u043d\u0434\u043e\u043d"
+                },
+                {
+                    "def": "Jungtin\u0117 Karalyst\u0117"
+                },
+                {
+                    "def": "Londonas"
+                },
+                {
+                    "def": "Apvienot\u0101 Karaliste"
+                },
+                {
+                    "def": "Londona"
+                },
+                {
+                    "def": "Ujedinjeno Kraljevstvo"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "Royaume-Uni"
+                },
+                {
+                    "def": "Londres"
+                },
+                {
+                    "def": "Egyes\u00fclt Kir\u00e1lys\u00e1g"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "Spojen\u00e9 kr\u00e1\u013eovstvo"
+                },
+                {
+                    "def": "Lond\u00fdn"
+                },
+                {
+                    "def": "Zdru\u017eeno kraljestvo"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "An R\u00edocht Aontaithe"
+                },
+                {
+                    "def": "Londain"
+                },
+                {
+                    "def": "Regne Unit"
+                },
+                {
+                    "def": "Londres"
+                },
+                {
+                    "def": "Storbritannien"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf"
+                },
+                {
+                    "def": "\u039b\u03bf\u03bd\u03b4\u03af\u03bd\u03bf"
+                },
+                {
+                    "def": "Renju Unit"
+                },
+                {
+                    "def": "Londra"
+                },
+                {
+                    "def": "United Kingdom"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "Regno Unito"
+                },
+                {
+                    "def": "Londra"
+                },
+                {
+                    "def": "Reino Unido"
+                },
+                {
+                    "def": "Londres"
+                },
+                {
+                    "def": "Suurbritannia"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "Erresuma Batua"
+                },
+                {
+                    "def": "Londres"
+                },
+                {
+                    "def": "Spojen\u00e9 kr\u00e1lovstv\u00ed"
+                },
+                {
+                    "def": "Lond\u00fdn"
+                },
+                {
+                    "def": "Wielka Brytania"
+                },
+                {
+                    "def": "Londyn"
+                },
+                {
+                    "def": "Regatul Unit"
+                },
+                {
+                    "def": "Londra"
+                },
+                {
+                    "def": "Storbritannien"
+                },
+                {
+                    "def": "London"
+                },
+                {
+                    "def": "Verenigd Koninkrijk"
+                },
+                {
+                    "def": "Londen"
+                }
+            ],
+            "edmPlaceLabelLangAware": {
+                "de": [
+                    "Vereinigtes K\u00f6nigreich",
+                    "London"
+                ],
+                "ru": [
+                    "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+                    "\u041b\u043e\u043d\u0434\u043e\u043d"
+                ],
+                "fi": [
+                    "Yhdistynyt kuningaskunta",
+                    "Lontoo"
+                ],
+                "pt": [
+                    "Reino Unido",
+                    "Londres"
+                ],
+                "bg": [
+                    "\u0412\u0435\u043b\u0438\u043a\u043e\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f",
+                    "\u041b\u043e\u043d\u0434\u043e\u043d"
+                ],
+                "lt": [
+                    "Jungtin\u0117 Karalyst\u0117",
+                    "Londonas"
+                ],
+                "lv": [
+                    "Apvienot\u0101 Karaliste",
+                    "Londona"
+                ],
+                "hr": [
+                    "Ujedinjeno Kraljevstvo",
+                    "London"
+                ],
+                "fr": [
+                    "Royaume-Uni",
+                    "Londres"
+                ],
+                "hu": [
+                    "Egyes\u00fclt Kir\u00e1lys\u00e1g",
+                    "London"
+                ],
+                "sk": [
+                    "Spojen\u00e9 kr\u00e1\u013eovstvo",
+                    "Lond\u00fdn"
+                ],
+                "sl": [
+                    "Zdru\u017eeno kraljestvo",
+                    "London"
+                ],
+                "ga": [
+                    "An R\u00edocht Aontaithe",
+                    "Londain"
+                ],
+                "ca": [
+                    "Regne Unit",
+                    "Londres"
+                ],
+                "sv": [
+                    "Storbritannien",
+                    "London"
+                ],
+                "el": [
+                    "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf",
+                    "\u039b\u03bf\u03bd\u03b4\u03af\u03bd\u03bf"
+                ],
+                "mt": [
+                    "Renju Unit",
+                    "Londra"
+                ],
+                "en": [
+                    "United Kingdom",
+                    "London"
+                ],
+                "it": [
+                    "Regno Unito",
+                    "Londra"
+                ],
+                "es": [
+                    "Reino Unido",
+                    "Londres"
+                ],
+                "et": [
+                    "Suurbritannia",
+                    "London"
+                ],
+                "eu": [
+                    "Erresuma Batua",
+                    "Londres"
+                ],
+                "cs": [
+                    "Spojen\u00e9 kr\u00e1lovstv\u00ed",
+                    "Lond\u00fdn"
+                ],
+                "pl": [
+                    "Wielka Brytania",
+                    "Londyn"
+                ],
+                "ro": [
+                    "Regatul Unit",
+                    "Londra"
+                ],
+                "da": [
+                    "Storbritannien",
+                    "London"
+                ],
+                "nl": [
+                    "Verenigd Koninkrijk",
+                    "Londen"
+                ]
+            },
+            "edmPlaceLatitude": [
+                "54.6",
+                "51.50722"
+            ],
+            "edmPlaceLongitude": [
+                "-2.0",
+                "-0.1275"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Flh3.ggpht.com%2FgdO_Im_FKaMCi_OIYD5MCeGDjyKhxUBsmvVtJbgcE0QeLuSLBE1662R7-m6kuColbkB0xFA9Qo8V3b0lEwkRj4hwMvg%3Ds0&type=IMAGE"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "1600/1604"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "1600/1604"
+                ]
+            },
+            "europeanaCollectionName": [
+                "90402_M_NL_Rijksmuseum"
+            ],
+            "europeanaCompleteness": 7,
+            "guid": "https://www.europeana.eu/item/90402/RP_P_2012_24_55?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/90402/RP_P_2012_24_55",
+            "index": 0,
+            "language": [
+                "nl"
+            ],
+            "link": "https://api.europeana.eu/record/90402/RP_P_2012_24_55.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "Rijksmuseum"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/mark/1.0/"
+            ],
+            "score": 38.89393,
+            "timestamp": 1751999843931,
+            "timestamp_created": "2014-05-27T16:44:31.524Z",
+            "timestamp_created_epoch": 1401209071524,
+            "timestamp_update": "2018-03-17T13:54:21.897Z",
+            "timestamp_update_epoch": 1521294861897,
+            "title": [
+                "Lavendel en abrikoos",
+                "Cognoscite lilia"
+            ],
+            "type": "IMAGE",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Italy"
+            ],
+            "dataProvider": [
+                "University of Padua - Botanical Garden Library"
+            ],
+            "dcDescription": [
+                "1. Nome scientifico: Tanacetum parthenium (L.) Sch.-Bip. \n2. Nome scientifico: T. Parthenium (L.) Sch.-Bip. cv.\n(Asteraceae, Compositae)\nNome attuale: Partenio, erba-amara\n\n3. Nome scientifico: Oenanthe aquatica (L.) Poiret\n(Apiaceae, Umbelliferae)\nNome attuale: Cicuta acquatica, Finocchio d'acqua\n\n4. Nome scientifico: Lavandula angustifolia Miller\n(Lamiaceae, Labiatae)\nNome attuale: Lavanda, Spigo"
+            ],
+            "dcDescriptionLangAware": {
+                "it": [
+                    "1. Nome scientifico: Tanacetum parthenium (L.) Sch.-Bip. \n2. Nome scientifico: T. Parthenium (L.) Sch.-Bip. cv.\n(Asteraceae, Compositae)\nNome attuale: Partenio, erba-amara\n\n3. Nome scientifico: Oenanthe aquatica (L.) Poiret\n(Apiaceae, Umbelliferae)\nNome attuale: Cicuta acquatica, Finocchio d'acqua\n\n4. Nome scientifico: Lavandula angustifolia Miller\n(Lamiaceae, Labiatae)\nNome attuale: Lavanda, Spigo"
+                ]
+            },
+            "dcLanguage": [
+                "lat",
+                "lat"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "lat",
+                    "lat"
+                ]
+            },
+            "dcTitleLangAware": {
+                "it": [
+                    "Parthenio, Matricaria flore pleno, Cicutaria palustre, Lavanda"
+                ]
+            },
+            "edmConcept": [
+                "http://culturaitalia.it/pico/thesaurus/4.2#manoscritti",
+                "http://vocab.getty.edu/aat/300028569",
+                "http://culturaitalia.it/pico/thesaurus/4.1#opere_d_arte_visiva",
+                "http://culturaitalia.it/pico/thesaurus/4.1#scienze_naturali",
+                "http://data.europeana.eu/concept/17",
+                "http://culturaitalia.it/pico/thesaurus/4.1#botanica"
+            ],
+            "edmConceptLabel": [
+                {
+                    "def": "Manuscripts"
+                },
+                {
+                    "def": "manuscripts (documents)"
+                },
+                {
+                    "def": "Visual art works"
+                },
+                {
+                    "def": "Natural sciences"
+                },
+                {
+                    "def": "Manuscript"
+                },
+                {
+                    "def": "Botany"
+                },
+                {
+                    "def": "Manoscritti"
+                },
+                {
+                    "def": "Opere d'arte visiva"
+                },
+                {
+                    "def": "Scienze naturali"
+                },
+                {
+                    "def": "Manoscritto"
+                },
+                {
+                    "def": "Botanica"
+                },
+                {
+                    "def": "Manuskript (Dokumentengattung)"
+                },
+                {
+                    "def": "Manuskript"
+                },
+                {
+                    "def": "manuscritos"
+                },
+                {
+                    "def": "Manuscrito"
+                },
+                {
+                    "def": "manuscrits"
+                },
+                {
+                    "def": "Manuscrit"
+                },
+                {
+                    "def": "manuscritos"
+                },
+                {
+                    "def": "Manuscrito"
+                },
+                {
+                    "def": "manuscripten"
+                },
+                {
+                    "def": "Manuscript"
+                },
+                {
+                    "def": "\u0420\u0443\u043a\u043e\u043f\u0438\u0441\u044c"
+                },
+                {
+                    "def": "K\u00e4sikirjoitus"
+                },
+                {
+                    "def": "\u0420\u044a\u043a\u043e\u043f\u0438\u0441"
+                },
+                {
+                    "def": "Rankra\u0161tis"
+                },
+                {
+                    "def": "Rokraksts"
+                },
+                {
+                    "def": "Rukopis"
+                },
+                {
+                    "def": "K\u00e9zirat"
+                },
+                {
+                    "def": "Rukopis"
+                },
+                {
+                    "def": "Rokopis"
+                },
+                {
+                    "def": "L\u00e1mhscr\u00edbhinn"
+                },
+                {
+                    "def": "Manuscrit"
+                },
+                {
+                    "def": "Handskrift"
+                },
+                {
+                    "def": "\u03a7\u03b5\u03b9\u03c1\u03cc\u03b3\u03c1\u03b1\u03c6\u03bf"
+                },
+                {
+                    "def": "K\u00e4sikiri"
+                },
+                {
+                    "def": "Eskuizkribu"
+                },
+                {
+                    "def": "Rukopis"
+                },
+                {
+                    "def": "R\u0119kopis"
+                },
+                {
+                    "def": "H\u00e5ndskrift"
+                },
+                {
+                    "def": "Manuscris"
+                }
+            ],
+            "edmConceptPrefLabelLangAware": {
+                "de": [
+                    "Manuskript (Dokumentengattung)",
+                    "Manuskript"
+                ],
+                "ru": [
+                    "\u0420\u0443\u043a\u043e\u043f\u0438\u0441\u044c"
+                ],
+                "fi": [
+                    "K\u00e4sikirjoitus"
+                ],
+                "pt": [
+                    "Manuscrito",
+                    "manuscritos"
+                ],
+                "bg": [
+                    "\u0420\u044a\u043a\u043e\u043f\u0438\u0441"
+                ],
+                "lt": [
+                    "Rankra\u0161tis"
+                ],
+                "lv": [
+                    "Rokraksts"
+                ],
+                "hr": [
+                    "Rukopis"
+                ],
+                "fr": [
+                    "manuscrits",
+                    "Manuscrit"
+                ],
+                "hu": [
+                    "K\u00e9zirat"
+                ],
+                "sk": [
+                    "Rukopis"
+                ],
+                "sl": [
+                    "Rokopis"
+                ],
+                "ga": [
+                    "L\u00e1mhscr\u00edbhinn"
+                ],
+                "ca": [
+                    "Manuscrit"
+                ],
+                "sv": [
+                    "Handskrift"
+                ],
+                "el": [
+                    "\u03a7\u03b5\u03b9\u03c1\u03cc\u03b3\u03c1\u03b1\u03c6\u03bf"
+                ],
+                "en": [
+                    "Manuscript",
+                    "Natural sciences",
+                    "Botany",
+                    "manuscripts (documents)",
+                    "Visual art works",
+                    "Manuscripts"
+                ],
+                "it": [
+                    "Manoscritti",
+                    "Opere d'arte visiva",
+                    "Scienze naturali",
+                    "Botanica",
+                    "Manoscritto"
+                ],
+                "es": [
+                    "Manuscrito",
+                    "manuscritos"
+                ],
+                "et": [
+                    "K\u00e4sikiri"
+                ],
+                "eu": [
+                    "Eskuizkribu"
+                ],
+                "cs": [
+                    "Rukopis"
+                ],
+                "pl": [
+                    "R\u0119kopis"
+                ],
+                "da": [
+                    "H\u00e5ndskrift"
+                ],
+                "ro": [
+                    "Manuscris"
+                ],
+                "nl": [
+                    "Manuscript",
+                    "manuscripten"
+                ]
+            },
+            "edmDatasetName": [
+                "795_Phaidra_Padova_erbari_illustrati"
+            ],
+            "edmIsShownAt": [
+                "https://phaidra.cab.unipd.it/o:332618"
+            ],
+            "edmIsShownBy": [
+                "https://phaidra.cab.unipd.it/api/object/o:332618/diss/Content/get"
+            ],
+            "edmPlaceAltLabel": [
+                {
+                    "def": "Padova"
+                }
+            ],
+            "edmPlaceAltLabelLangAware": {
+                "it": [
+                    "Padova"
+                ]
+            },
+            "edmPlaceLabel": [
+                {
+                    "def": "Orto botanico di Padova"
+                },
+                {
+                    "def": "Comune di Padova"
+                }
+            ],
+            "edmPlaceLabelLangAware": {
+                "it": [
+                    "Orto botanico di Padova",
+                    "Comune di Padova"
+                ]
+            },
+            "edmPlaceLatitude": [
+                "45.39917",
+                "45.41519"
+            ],
+            "edmPlaceLongitude": [
+                "11.88078",
+                "11.88181"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fphaidra.cab.unipd.it%2Fpreview%2Fo%3A332618%2FImageManipulator%2FboxImage%2F1024%2Fpng&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "1730~"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "zxx": [
+                    "1730~"
+                ]
+            },
+            "europeanaCollectionName": [
+                "795_Phaidra_Padova_erbari_illustrati"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/795/11168_11_332618?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/795/11168_11_332618",
+            "index": 0,
+            "language": [
+                "mul"
+            ],
+            "link": "https://api.europeana.eu/record/795/11168_11_332618.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "CulturaItalia"
+            ],
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-sa/4.0/"
+            ],
+            "score": 28.70113,
+            "timestamp": 1752071119664,
+            "timestamp_created": "2022-08-24T14:24:21.840Z",
+            "timestamp_created_epoch": 1661351061840,
+            "timestamp_update": "2022-08-24T14:47:49.603Z",
+            "timestamp_update_epoch": 1661352469603,
+            "title": [
+                "Parthenio, Matricaria flore pleno, Cicutaria palustre, Lavanda"
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        },
+        {
+            "completeness": 10,
+            "country": [
+                "Spain"
+            ],
+            "dataProvider": [
+                "Virtual Library of La Rioja"
+            ],
+            "dcCreator": [
+                "https://hispana.mcu.es/lod/oai:bibliotecavirtual.larioja.org:3647#ent2",
+                "https://hispana.mcu.es/lod/oai:bibliotecavirtual.larioja.org:3647#ent3",
+                "https://hispana.mcu.es/lod/oai:bibliotecavirtual.larioja.org:3647#ent4"
+            ],
+            "dcCreatorLangAware": {
+                "def": [
+                    "https://hispana.mcu.es/lod/oai:bibliotecavirtual.larioja.org:3647#ent2",
+                    "https://hispana.mcu.es/lod/oai:bibliotecavirtual.larioja.org:3647#ent3",
+                    "https://hispana.mcu.es/lod/oai:bibliotecavirtual.larioja.org:3647#ent4"
+                ]
+            },
+            "dcDescription": [
+                "[T588]",
+                "Descripci\u00f3n de Ildefonso Zub\u00eda: Lavandula vera DC. L. angustifolia Moe., L. officinalis Chaix. [N\u00ba] 1\u00aa-8.",
+                "Muestra bot\u00e1nica fijada a la hoja mediante tiras adhesivas",
+                "Texto manuscrito en etiquetas de papel"
+            ],
+            "dcDescriptionLangAware": {
+                "es": [
+                    "[T588]",
+                    "Descripci\u00f3n de Ildefonso Zub\u00eda: Lavandula vera DC. L. angustifolia Moe., L. officinalis Chaix. [N\u00ba] 1\u00aa-8.",
+                    "Muestra bot\u00e1nica fijada a la hoja mediante tiras adhesivas",
+                    "Texto manuscrito en etiquetas de papel"
+                ]
+            },
+            "dcLanguage": [
+                "und",
+                "und"
+            ],
+            "dcLanguageLangAware": {
+                "def": [
+                    "und",
+                    "und"
+                ]
+            },
+            "dcTitleLangAware": {
+                "es": [
+                    "Labiatae Lavandula latifolia Medik."
+                ]
+            },
+            "edmDatasetName": [
+                "592_Hispana_BibliotecaRioja"
+            ],
+            "edmIsShownAt": [
+                "https://bibliotecavirtual.larioja.org/bvrioja/es/consulta/registro.do?id=3647"
+            ],
+            "edmIsShownBy": [
+                "https://bibliotecavirtual.larioja.org/bvrioja/es/catalogo_imagenes/imagen_id.do?idImagen=698336"
+            ],
+            "edmPreview": [
+                "https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fbibliotecavirtual.larioja.org%2Fbvrioja%2Fes%2Fcatalogo_imagenes%2Fimagen_id.do%3FidImagen%3D697413&type=TEXT"
+            ],
+            "edmTimespanLabel": [
+                {
+                    "def": "1847/1891"
+                },
+                {
+                    "def": "19. Jahrhundert"
+                },
+                {
+                    "def": "XIX \u0432\u0435\u043a"
+                },
+                {
+                    "def": "1800-luku"
+                },
+                {
+                    "def": "S\u00e9culo XIX"
+                },
+                {
+                    "def": "19 \u0432\u0435\u043a"
+                },
+                {
+                    "def": "XIX am\u017eius"
+                },
+                {
+                    "def": "19. gadsimts"
+                },
+                {
+                    "def": "19. stolje\u0107e"
+                },
+                {
+                    "def": "XIX\u1d49 si\u00e8cle"
+                },
+                {
+                    "def": "19. sz\u00e1zad"
+                },
+                {
+                    "def": "19. storo\u010die"
+                },
+                {
+                    "def": "19. stoletje"
+                },
+                {
+                    "def": "19\u00fa haois"
+                },
+                {
+                    "def": "Segle XIX"
+                },
+                {
+                    "def": "1800-talet"
+                },
+                {
+                    "def": "19\u03bf\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+                },
+                {
+                    "def": "19th century"
+                },
+                {
+                    "def": "XIX secolo"
+                },
+                {
+                    "def": "Siglo XIX"
+                },
+                {
+                    "def": "19. sajand"
+                },
+                {
+                    "def": "XIX. mendea"
+                },
+                {
+                    "def": "19. stolet\u00ed"
+                },
+                {
+                    "def": "XIX wiek"
+                },
+                {
+                    "def": "Secolul al XIX-lea"
+                },
+                {
+                    "def": "19. \u00e5rhundrede"
+                },
+                {
+                    "def": "19e eeuw"
+                },
+                {
+                    "def": "http://www.wikidata.org/entity/Q6955"
+                },
+                {
+                    "def": "http://id.loc.gov/authorities/names/sh2002012475"
+                },
+                {
+                    "def": "http://id.loc.gov/authorities/names/sh85091984"
+                },
+                {
+                    "def": "http://id.nlm.nih.gov/mesh/D049672"
+                },
+                {
+                    "def": "https://www.freebase.com/m/08b3m"
+                },
+                {
+                    "def": "https://g.co/kg/m/08b3m"
+                },
+                {
+                    "def": "http://id.nlm.nih.gov/mesh/K01.400.504.937"
+                },
+                {
+                    "def": "http://datos.bne.es/resource/XX4343988"
+                },
+                {
+                    "def": "http://vocab.getty.edu/aat/300404513"
+                },
+                {
+                    "def": "http://babelnet.org/rdf/s02210346n"
+                },
+                {
+                    "def": "http://dbpedia.org/resource/19th_century"
+                }
+            ],
+            "edmTimespanLabelLangAware": {
+                "de": [
+                    "19. Jahrhundert"
+                ],
+                "ru": [
+                    "XIX \u0432\u0435\u043a"
+                ],
+                "fi": [
+                    "1800-luku"
+                ],
+                "pt": [
+                    "S\u00e9culo XIX"
+                ],
+                "bg": [
+                    "19 \u0432\u0435\u043a"
+                ],
+                "lt": [
+                    "XIX am\u017eius"
+                ],
+                "lv": [
+                    "19. gadsimts"
+                ],
+                "hr": [
+                    "19. stolje\u0107e"
+                ],
+                "fr": [
+                    "XIX\u1d49 si\u00e8cle"
+                ],
+                "hu": [
+                    "19. sz\u00e1zad"
+                ],
+                "sk": [
+                    "19. storo\u010die"
+                ],
+                "sl": [
+                    "19. stoletje"
+                ],
+                "ga": [
+                    "19\u00fa haois"
+                ],
+                "ca": [
+                    "Segle XIX"
+                ],
+                "sv": [
+                    "1800-talet"
+                ],
+                "el": [
+                    "19\u03bf\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
+                ],
+                "en": [
+                    "19th century"
+                ],
+                "it": [
+                    "XIX secolo"
+                ],
+                "es": [
+                    "Siglo XIX"
+                ],
+                "et": [
+                    "19. sajand"
+                ],
+                "eu": [
+                    "XIX. mendea"
+                ],
+                "cs": [
+                    "19. stolet\u00ed"
+                ],
+                "zxx": [
+                    "1847/1891"
+                ],
+                "pl": [
+                    "XIX wiek"
+                ],
+                "ro": [
+                    "Secolul al XIX-lea"
+                ],
+                "da": [
+                    "19. \u00e5rhundrede"
+                ],
+                "nl": [
+                    "19e eeuw"
+                ]
+            },
+            "europeanaCollectionName": [
+                "592_Hispana_BibliotecaRioja"
+            ],
+            "europeanaCompleteness": 10,
+            "guid": "https://www.europeana.eu/item/592/https___hispana_mcu_es_lod_oai_bibliotecavirtual_larioja_org_3647_ent0?utm_source=api&utm_medium=api&utm_campaign=tongencerfor",
+            "id": "/592/https___hispana_mcu_es_lod_oai_bibliotecavirtual_larioja_org_3647_ent0",
+            "index": 0,
+            "language": [
+                "es"
+            ],
+            "link": "https://api.europeana.eu/record/592/https___hispana_mcu_es_lod_oai_bibliotecavirtual_larioja_org_3647_ent0.json?wskey=tongencerfor",
+            "previewNoDistribute": false,
+            "provider": [
+                "Hispana"
+            ],
+            "rights": [
+                "http://creativecommons.org/publicdomain/zero/1.0/"
+            ],
+            "score": 88.60608,
+            "timestamp": 1769609380292,
+            "timestamp_created": "2026-01-28T13:43:39.874Z",
+            "timestamp_created_epoch": 1769607819874,
+            "timestamp_update": "2026-01-28T13:43:39.874Z",
+            "timestamp_update_epoch": 1769607819874,
+            "title": [
+                "Labiatae Lavandula latifolia Medik."
+            ],
+            "type": "TEXT",
+            "ugc": [
+                false
+            ]
+        }
+    ]
+}
