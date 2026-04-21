@@ -25,5 +25,21 @@ console.print("\n[bold #13294B]Now enter your own movie data![/bold #13294B]\n")
 
 input_data = []
 
+while True:
+    while True:
+        restaurant = console.input("Enter [#FF5F05]Restaurant[#FF5F05] Name: ")
+        item = console.input("Enter [#FF5F05]Food Item[#FF5F05]: ")
+        rating = console.input("Enter [#FF5F05]Rating[#FF5F05] (single digit 1-10): ") + "/10"
 
+        # print the entered data for user to confrm
+        console.print("\nYou entered:\n")
+        console.print(f"Restaurant: {restaurant}")
+        console.print(f"Item: {item}")
+        console.print(f"Rating: {rating}")
 
+        confirmation = console.input("\nIs this correct? (y/n): ")
+        if confirmation.lower() == 'y':
+            input_data.append((restaurant, item, rating))
+            break
+        else:
+            console.print("\nPlease re-enter the data\n")
