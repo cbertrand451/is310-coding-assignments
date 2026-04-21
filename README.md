@@ -11,6 +11,11 @@ Assignments are all organized in their own folder and labeled based on the weekl
 
 - [Init IS310](init_is310)
 - [Lost & Found in the Cultural Command Line](command-line-maze)
+- [Styling the Cultural Web](source-and-style)
+- [Command Line Data Curation](python-libraries)
+- [Fandom Wikis and Web Scraping](web-scraping)
+- [GETting Culture Across APIs](api-getting-data)
+- 
 
 
 ## Course Website
